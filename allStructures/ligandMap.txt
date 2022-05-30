@@ -1,0 +1,3344 @@
+# ************** PDB ligand Map *************** 
+#	Created using '*BuildMap module*
+# Ligand validation based on binding MOAD database.
+# Author L. Gagliardi, Istituto Italiano di Tecnologia
+# LOCAL TIME = 2022-01-04 23:05:22
+# --------------
+
+1	5il1
+SAM_A601
+2	3oki
+OKI_A2
+OKI_C1
+1	6hhp
+#ALA_GLU_GLY_PHE_PRO_ALA_TPO_VAL_B591	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+6	2hyr
+BGC_GLC_H1
+BGC_GLC_F1
+BGC_GLC_D1
+BGC_GLC_G1
+BGC_GLC_C1
+BGC_GLC_E1
+2	1bkj
+FMN_A241
+FMN_B241
+1	2xom
+GAL_GAL_GAL_B1
+2	3cow
+52H_A401
+52H_B402
+# 3	5klp	 <-- Too large! IGNORING
+1	1clu
+DBG_A167
+1	6hgi
+C0R_A401
+1	5ih9
+6BF_A401
+4	2jgs
+BTN_A1001
+BTN_B1001
+BTN_C1001
+BTN_D1001
+1	5uxf
+2BA_A401
+1	5duf
+G7A_A301
+1	1h1h
+A2P_A1134
+2	3hiw
+C2X_A260
+C2X_B260
+1	5f7v
+GLC_GLC_GLC_GLC_B1
+2	4yoi
+4F4_A401
+4F4_B401
+3	4xur
+#XYP_XYP_XYP_E1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+XYP_XYP_XYP_XYP_D1
+#XYP_XYP_XYP_XYP_F1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+4	2gj8
+#ALF_GDP_A601	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALF_GDP_B611	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALF_GDP_C621	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALF_GDP_D631	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	5epk
+5R0_PHE_ALA_LEU_ELY_5R5_B0
+# 2	1oau	 <-- Too large! IGNORING
+1	2i5f
+5IP_A550
+1	4np3
+2L2_A201
+1	2cc6
+LUM_A1068
+3	1wma
+NDP_A309
+AB3_A307
+AB3_A308
+1	5vm6
+9EG_A203
+1	5fnu
+L6I_A1615
+# 4	1pzg	 <-- Too large! IGNORING
+# 2	4l4v	 <-- Too large! IGNORING
+1	1qxw
+M1C_A3001
+# 8	2gce	 <-- Too large! IGNORING
+3	4de1
+0J6_A301
+0J6_B301
+0J6_B303
+3	5kf9
+COA_A403
+ACO_A402
+NAG_A401
+# 2	4myd	 <-- Too large! IGNORING
+1	1uzn
+NAP_A1249
+# 4	6hcw	 <-- Too large! IGNORING
+1	4bjx
+73B_A1169
+2	3hvj
+705_A1
+705_B2
+2	3crz
+NAP_A305
+FAD_A300
+1	1y2f
+WAI_A300
+1	4lqy
+AMP_A505
+1	1tfz
+869_A551
+# 5	2c94	 <-- Too large! IGNORING
+1	5zun
+9JX_A401
+2	6r1d
+JP5_A202
+JP5_B202
+1	2e27
+AB0_H6001
+4	3ie3
+N11_A211
+N11_B211
+GSH_A210
+GSH_B210
+# 8	4cme	 <-- Too large! IGNORING
+2	2vez
+ACO_A201
+G6P_A202
+# 4	4cu1	 <-- Too large! IGNORING
+2	3p2e
+SAH_A6732
+SAH_B6732
+2	3a1s
+GDP_A1
+GDP_B2
+1	6iam	  # --> a warning was produced in pdb2pqr conversion.
+GLU_ALA_LYS_PRO_C1
+# 3	1pi5	 <-- Too large! IGNORING
+2	2hfp
+NSI_A478
+NSI_A479
+2	5cuq
+NSC_A301
+NSC_B301
+# 2	3otx	 <-- Too large! IGNORING
+1	4gvu
+6NA_GLN_THR_DBU_GLJ_PHE_YNM_VAL_B1
+1	6aix
+A3P_A501
+2	2bl9
+CP6_A1240
+NDP_A1239
+1	6gcx
+EUW_A701
+# 5	1gzf	 <-- Too large! IGNORING
+1	5l01
+6Z4_A502
+2	5bqs
+4VN_B402
+4VN_A402
+4	3e85
+BSU_A158
+BSU_A159
+BSU_A160
+BSU_A161
+4	5tuz
+SAM_B3001
+SAM_A3001
+7L6_B3006
+7L6_A3006
+1	1jt1
+MCO_A700
+1	1yc4
+43P_A301
+1	4tw7
+37K_A201
+1	5aan
+XOC_A1189
+# 1	4zw3	 <-- Too large! IGNORING
+1	3tki
+S25_A325
+1	2jgb
+MGT_B1000
+2	5l4l
+NAP_A302
+7OX_A303
+1	4ge6
+B26_A601
+1	1gaf
+NPE_H218
+# 8	5ywx	 <-- Too large! IGNORING
+1	6max
+9TF_A203
+1	3obu
+PRO_GLU_PRO_THR_ALA_PRO_PRO_GLU_GLU_B5
+2	3sou
+#ALA_ARG_THR_LYS_GLN_THR_ALA_ARG_LYS_D1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALA_ARG_THR_LYS_GLN_THR_ALA_ARG_LYS_E1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	3h7r
+NAP_A401
+2	4qag
+F95_B603
+F95_A603
+4	6hoy
+AR6_B702
+AR6_A401
+TSN_B709
+TSN_A409
+2	4uap
+NGA_A201
+NGA_B201
+1	4pk3
+ACE_SER_ASP_ALY_THR_NH2_COA_B1
+# 4	6g5l	 <-- Too large! IGNORING
+6	3zw2
+GAL_FUC_E1
+NAG_GAL_FUC_F1
+NAG_GAL_FUC_I1
+NAG_GAL_FUC_G1
+NAG_GAL_FUC_D1
+GLA_NAG_GAL_FUC_H1
+# 3	6p83	 <-- Too large! IGNORING
+2	4b16
+NAG_A1275
+NAG_A1276
+1	2wqp
+WQP_A1350
+1	6rk4
+K5T_A501
+2	2xfh
+CL6_A1413
+CL6_A1414
+1	4i6h
+1C8_A401
+5	6ct5
+FD7_A302
+FD7_B302
+FD7_A303
+COA_A301
+COA_B301
+1	4hgw
+KTU_KDO_C1
+# 3	1w96	 <-- Too large! IGNORING
+1	4ku7
+PCG_A425
+# 6	1m5w	 <-- Too large! IGNORING
+1	4jmu
+1ML_A202
+# 4	2oo0	 <-- Too large! IGNORING
+2	5htl
+C2E_A201
+C2E_B201
+2	1w6o
+BGC_GAL_C1
+BGC_GAL_D1
+1	6hs2
+GNZ_B301
+2	2e2p
+ADP_A600
+ADP_B601
+# 2	2rcu	 <-- Too large! IGNORING
+1	2w14
+WR2_A1204
+1	2vuz
+#NAG_NAG_BMA_MAN_MAN_NAG_NAG_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	4ywa
+4J9_C201
+4J9_A202
+1	4kil
+1R5_A305
+# 4	5swb	 <-- Too large! IGNORING
+2	1u72
+NDP_A187
+MTX_A188
+1	5nfb
+8VT_A301
+# 8	4ohu	 <-- Too large! IGNORING
+1	3gwt
+066_A1
+1	1yp0
+PEF_A201
+1	3v66
+D3A_A402
+2	5yz2
+AMP_A301
+AMP_B301
+4	3b4y
+FLC_A337
+FLC_B337
+F42_A338
+F42_B338
+12	4ddy
+DN6_A301
+DN6_A302
+DN6_A303
+DN6_A304
+DN6_B301
+DN6_B302
+DN6_B303
+DN6_B304
+DN6_B305
+DN6_B306
+DN6_B307
+DN6_B308
+# 2	4bnu	 <-- Too large! IGNORING
+1	4pzv
+J1D_A501
+1	5zfi
+9C9_A301
+1	2oxn
+OAN_A501
+2	4p5e
+N6P_A201
+N6P_B201
+6	1o7q
+NAG_GAL_D1
+NAG_GAL_C1
+UDP_A1374
+UDP_A1375
+UDP_B1376
+UDP_B1377
+1	2xd3
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_B1
+1	3ivv
+ASP_GLU_VAL_THR_SER_THR_THR_SER_SER_SER_D96
+2	1m6p
+M6P_A200
+M6P_B200
+# 2	5yse	 <-- Too large! IGNORING
+2	5dux
+BGC_GAL_FUC_E1
+BGC_GAL_FUC_F1
+1	4tyt
+S3C_A303
+2	6hp9
+GKB_A1001
+GKB_B1001
+2	5uxm
+TRP_A502
+PEP_A501
+2	4b4q
+GLC_GAL_NAG_GAL_FUC_A2G_C1
+GLC_GAL_NAG_GAL_FUC_A2G_D1
+2	5j75
+6GQ_A303
+6GQ_B303
+1	1fmb
+HYB_A201
+# 2	5ef7	 <-- Too large! IGNORING
+3	3e3u
+NVC_A201
+NVC_A202
+NVC_A203
+# 6	6mxc	 <-- Too large! IGNORING
+1	3dzt
+EAH_A305
+8	1w8h
+NDG_GAL_FUC_H1
+NDG_GAL_FUC_G1
+NDG_GAL_FUC_F1
+#NDG_GAL_FUC_E1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#NAG_GAL_FUC_E1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+NAG_GAL_FUC_G1_1
+NAG_GAL_FUC_F1_1
+NAG_GAL_FUC_H1
+1	1elr
+ACE_MET_GLU_GLU_VAL_ASP_B0
+4	5ey0
+GTP_A302
+GTP_B302
+ILE_A301
+ILE_B301
+# 3	2i7c	 <-- Too large! IGNORING
+1	2wpu
+KYT_A400
+2	4zqo
+IMP_A601
+Q67_A602
+2	6qhg
+MGT_A2001
+MGT_B2001
+1	6npp
+KWG_B701
+1	2py4
+DUP_A777
+1	4txe
+38F_A401
+1	2wu6
+DKI_A1484
+# 2	4hws	 <-- Too large! IGNORING
+1	5dus
+APR_A201
+4	4km2
+ATR_A201
+ATR_B201
+TOP_B202
+TOP_A202
+2	1s17
+GNR_A501
+GNR_B601
+# 1	3fed	 <-- Too large! IGNORING
+# 6	1h82	 <-- Too large! IGNORING
+1	2apc
+UDM_A449
+1	5k1f
+IMP_A401
+4	6itq
+HCY_B201
+HCY_D201
+HCY_A201
+HCY_C201
+1	1yvm
+TMG_A501
+1	4wey
+EG6_B202
+2	5mtt
+GLC_GLC_GLC_GLC_B1_1
+GLC_GLC_GLC_GLC_A405
+2	6ay3
+C3J_A1201
+C3J_B1201
+# 6	5c8w	 <-- Too large! IGNORING
+2	4u0w
+16G_A301
+16G_B301
+# 8	3tcg	 <-- Too large! IGNORING
+# 4	4wnp	 <-- Too large! IGNORING
+2	2wsa
+646_A1423
+MYA_A1422
+2	3gst
+GPR_A223
+GPR_B220
+# 1	4x3r	 <-- Too large! IGNORING
+# 4	5b25	 <-- Too large! IGNORING
+1	4a3x
+BGC_GAL_B1
+1	2yfz
+#BGC_BGC_BGC_XYS_GAL_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	2gc0
+PAN_A901
+PAN_B902
+2	5hbn
+RPI_A207
+RPI_A206
+# 4	4r5m	 <-- Too large! IGNORING
+# 2	3c8z	 <-- Too large! IGNORING
+1	3m8u
+GDS_A1
+1	4ag8
+AXI_A2000
+3	6md8
+J84_B301
+J84_A602
+J84_A601
+1	5anu
+58T_A1158
+1	5ovv
+ACE_ILE_GLU_SER_THR_GLU_ILE_B697
+# 4	4ezw	 <-- Too large! IGNORING
+1	4x6i
+3Y1_A301
+2	5fbn
+5WF_C701
+5WF_D702
+2	6rj6
+K5K_A401
+K5K_B401
+1	2xbk
+XBK_A1399
+1	5kqg
+6VX_A200
+1	1iau
+ACE_ILE_GLU_PRO_ASJ_B401
+1	5yqw
+NAG_NAG_B1
+2	2psj
+CEI_A501
+CEI_B502
+1	2xtn
+GTP_A1231
+# 3	5ufc	 <-- Too large! IGNORING
+1	3qin
+P1Y_A700
+1	2r75
+01G_1614
+2	5nea
+8V8_A303
+8V8_A302
+2	6cs9
+PIO_A101
+PIO_B101
+2	3p3g
+UKW_A801
+3P3_A401
+5	4umj
+BFQ_B1294
+BFQ_B1295
+BFQ_A1297
+BFQ_A1298
+BFQ_A1299
+1	5kau
+RHQ_A201
+3	2ydw
+WSH_A1183
+WSH_B1182
+WSH_C1183
+1	4jmo
+JAF_A301
+2	6gno
+XDI_A201
+XDI_B201
+1	5g0g
+TSN_A1427
+1	3hv8
+C2E_A900
+1	5tdb
+#DA2_ILE_PHE_SER_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	1o9w
+NAG_A1177
+1	6r8l
+JUZ_A301
+1	5zbz
+SAU_A301
+1	4kyk
+IMN_B300
+# 3	1duv	 <-- Too large! IGNORING
+2	5lyn	  # --> a warning was produced in pdb2pqr conversion.
+PRO_THR_VAL_GLU_GLU_VAL_ASP_D1
+PRO_THR_VAL_GLU_GLU_VAL_ASP_C1
+2	5e2n
+V14_A307
+V14_B306
+1	5l77
+GUX_A506
+1	2e2r	  # --> a warning was produced in pdb2pqr conversion.
+2OH_A1401
+1	5efc
+GTP_A501
+# 1	6bj3	 <-- Too large! IGNORING
+2	4buy
+F37_B2164
+F37_A2164
+2	3tct
+3MI_A128
+3MI_B128
+1	5ive
+6E8_A601
+2	2ofv
+242_A503
+242_B503
+1	5ntp
+98E_A501
+1	3nht
+U46_A1
+1	3rdo
+BTN_A300
+# 16	5yj0	 <-- Too large! IGNORING
+2	4hcz
+SER_THR_GLY_GLY_VAL_M3L_LYS_PRO_HIS_ARG_C31
+#SER_THR_GLY_GLY_VAL_M3L_LYS_PRO_HIS_ARG_D34	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 4	5u98	 <-- Too large! IGNORING
+1	2gh9
+GLC_GLC_GLC_B1
+# 8	1qg6	 <-- Too large! IGNORING
+2	3twd
+GOB_A1
+GOB_B454
+2	6exo
+C3E_A304
+C3E_B303
+2	1vyp
+TNF_X500
+FMN_X401
+1	5nkb
+8ZT_A1001
+2	6hgs
+5GP_A200
+5GP_B200
+1	5ox6
+A1Z_A502
+# 6	5od2	 <-- Too large! IGNORING
+# 4	2r0h	 <-- Too large! IGNORING
+1	2ho2
+PRO_PRO_PRO_PRO_PRO_PRO_PRO_PRO_PRO_LEU_B1
+# 2	1mar	 Unable to extract pqr. Check error log. IGNORING
+1	4oic
+A8S_A301
+1	1e4w
+SER_HIS_PHE_ASN_GLU_TYR_GLU_P1
+1	6ffl
+GLC_GLC_GLC_B1_1
+1	5mg2
+7M8_A1704
+# 4	3veh	 <-- Too large! IGNORING
+# 2	3rm4	 <-- Too large! IGNORING
+11	4de3
+DN8_A301
+DN8_A302
+DN8_A303
+DN8_A304
+DN8_A305
+DN8_A306
+DN8_B301
+DN8_B302
+DN8_B303
+DN8_B304
+DN8_B305
+1	1h0a
+I3P_A1164
+1	1w1g	  # --> a warning was produced in pdb2pqr conversion.
+4PT_A1550
+2	6et8
+BWH_A301
+BWH_B301
+4	5e1m
+PRO_PRO_LYS_ARG_ILE_ALA_E1
+PRO_PRO_LYS_ARG_ILE_ALA_D1
+SAH_A301
+SAH_B301
+1	2xbp
+ATP_A1114
+4	4k49
+HFQ_B201
+HFQ_C201
+HFQ_A201
+HFQ_D201
+1	1hfs
+L04_A256
+1	1lb6
+LYS_GLN_GLU_PRO_GLN_GLU_ILE_ASP_PHE_B601
+1	2pq9
+GG9_A501
+# 2	2epn	 <-- Too large! IGNORING
+1	5edl
+VIB_A201
+# 8	6hnr	 <-- Too large! IGNORING
+2	6ms1
+GLY_SER_TYR_LEU_VAL_THR_SER_VAL_D145
+GLY_SER_TYR_LEU_VAL_THR_SER_VAL_C192
+2	6b3v
+7DQ_A505
+ANP_A501
+2	3lzw
+NAP_A2000
+FAD_A1000
+1	3r42
+#GLN_VAL_PRO_SER_ASP_PRO_TYR_ASN_TYR_B445	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 4	4gid	 <-- Too large! IGNORING
+1	4nfn
+2KC_A401
+2	2ixh
+TRH_A1185
+TRH_B1185
+1	4yho
+4CC_H301
+1	3hp9
+CF1_A501
+1	4u82
+FPS_A302
+# 4	5ntw	 <-- Too large! IGNORING
+# 14	6n96	 <-- Too large! IGNORING
+# 2	4pft	 <-- Too large! IGNORING
+# 4	2rfy	 <-- Too large! IGNORING
+1	1ti7
+NAP_A400
+1	3aaq
+ARU_A1
+1	1fcz
+156_A450
+4	5e6o
+TRP_GLU_GLU_LEU_H1
+TRP_GLU_GLU_LEU_F1
+TRP_GLU_GLU_LEU_G1
+TRP_GLU_GLU_LEU_E1
+2	6o5x
+0Q4_B101
+0Q4_D101
+1	1gny
+XYP_XYP_XYP_XYP_XYP_B1
+1	5oa6
+9PT_A601
+1	5weu
+ARG_GLY_PRO_GLY_CYS_ALA_PHE_VAL_THR_ILE_P1
+1	2cir
+BG6_A501
+1	5n70
+ALA_PHE_ARG_ILE_PRO_LEU_THR_ARG_B5
+1	1nrj
+GTP_B1001
+1	5ofl
+BGC_BGC_BGC_BGC_BGC_BGC_B1
+2	5ooh
+NAP_A301
+9ZZ_A303
+1	6c7r
+EO4_A201
+2	5bqi
+4UL_A201
+GSH_A202
+3	5zyn
+SIN_B602
+FAD_B604
+FMN_B603
+2	2xg5	  # --> a warning was produced in pdb2pqr conversion.
+EC5_A1220
+EC2_A1219
+1	5jaq
+NAI_A401
+2	5cxi
+5TW_B201
+5TW_A201
+1	1flr
+FLU_L600
+# 2	2jhf	 <-- Too large! IGNORING
+1	5ur6
+8KM_A207
+1	6bsl
+EVV_A304
+6	5tzo
+7V7_A202
+7V7_C202
+7V7_A201
+7V7_C201
+7V7_B202
+7V7_B201
+1	5to8
+7FM_A701
+8	5mb4
+NDG_A509
+NDG_A515
+NAG_A512
+NAG_A514
+NAG_A511
+NAG_A508
+NAG_A513
+NAG_A510
+# 4	6a0s	 <-- Too large! IGNORING
+2	6qe5
+SAH_A301_1
+SAH_B301_1
+# 2	2ymz	 <-- Too large! IGNORING
+# 4	6cwh	 <-- Too large! IGNORING
+# 2	5ohj	 <-- Too large! IGNORING
+# 6	2wn2	 <-- Too large! IGNORING
+# 12	5in4	 <-- Too large! IGNORING
+1	4wki
+3PW_A506
+2	4or7
+NAP_A201
+25U_A202
+2	3tay
+MN0_A1000
+MN0_B1000
+2	4yv5
+SVR_B207
+SVR_A205
+1	2pgj
+N1C_A301
+1	5ha0
+LTD_A201
+# 8	4ygf	 <-- Too large! IGNORING
+1	4xj2
+FMN_A501
+2	6nw2
+L4Y_A301
+L4Y_B301
+2	4wzv
+E40_A301
+E40_B301
+1	1d6v
+HOP_H401
+# 2	5g10	 <-- Too large! IGNORING
+2	1f4g
+TP4_A601
+TP4_B602
+5	1npl
+MAN_E2
+MAN_E1
+MAN_MAN_B1
+MAN_MAN_D1
+MAN_MAN_C1
+2	4qpl
+V3L_A201
+V3L_C201
+1	1t32
+OHH_A901
+1	3o5x
+JZG_A1
+# 1	5lia	 <-- Too large! IGNORING
+1	5eob
+5QQ_A1401
+2	6gw1
+CHO_B601
+CHO_A601
+1	4jwk
+CTN_A201
+1	1wht
+BZS_A430
+1	1jn2
+SFP_P1001
+1	4w4s
+B29_A401
+2	2bju
+IH4_A1330
+IH4_A1331
+1	1moq
+GLP_A609
+1	6npm
+KVD_B701
+1	1yf4
+CYS_TYR_PHE_GLN_ASN_CYS_PRO_ARG_GLY_NH2_B1
+3	1g0n
+NDP_A400
+NDP_B401
+PHH_A402
+3	4glw
+NMN_B403
+0XT_A402
+0XT_B402
+# 4	5mu6	 <-- Too large! IGNORING
+# 3	2dm6	 <-- Too large! IGNORING
+3	2xd9
+XD9_A200
+XD9_B200
+XD9_C200
+1	2v8l
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_B1_1
+1	2p8o
+BVA_C300
+1	3iu9
+T07_A288
+# 2	6gue	 <-- Too large! IGNORING
+1	2oro
+228_A601
+2	6dum
+NAI_A604
+A5Y_A603
+# 2	4c2v	 <-- Too large! IGNORING
+1	3vj6
+ALA_MET_ALA_PRO_ARG_THR_LEU_LEU_LEU_P1
+4	5etr
+APC_A201
+APC_B201
+5RW_A202
+5RW_B202
+3	5o0j
+GLC_A503
+8BR_A501
+8BR_A502
+1	3llz
+NGA_GAL_C1
+2	1atl
+0QI_A301
+0QI_B311
+# 4	2wh8	 <-- Too large! IGNORING
+3	4rt1
+C2E_A201_1
+C2E_B201_1
+C2E_C201
+1	3u3z
+SEP_GLN_GLU_PTR_B1
+2	5ew0
+3C7_B302
+3C7_A302
+1	4fut
+ATP_A608
+7	5g6u
+SGN_C1326
+SGN_A1327
+SGN_B1326
+SGN_D1325
+TRP_A1331
+TRP_D1330
+TRP_B1334
+1	4inb
+1F6_A201
+2	6c9v
+ERS_B401
+ERS_A401
+1	5fd0
+NAG_A601
+1	4qt2
+RAP_A202
+1	2p4t
+NAP_A157
+2	2fxu
+BID_A402
+ATP_A401
+2	5t2y
+753_B201
+753_A201
+2	2rdt
+2RD_A365
+FMN_A364
+1	6fyl
+3NG_A501
+2	4apo
+ALA_GLU_ASP_ASP_VAL_GLU_E1
+ALA_GLU_ASP_ASP_VAL_GLU_D1
+# 2	3ti8	 <-- Too large! IGNORING
+1	1ywo
+GLN_PRO_PRO_VAL_PRO_PRO_GLN_ARG_PRO_MET_P1
+1	4rfr
+RHN_B301
+1	4ual
+3FV_A501
+# 2	3wqd	 <-- Too large! IGNORING
+1	3vy6
+BGC_BGC_B1
+1	4in9
+SER_TRP_PHE_PRO_B1
+1	4btk
+DTQ_A1337
+2	1elw
+GLY_PRO_THR_ILE_GLU_GLU_VAL_ASP_C5
+GLY_PRO_THR_ILE_GLU_GLU_VAL_ASP_D5
+1	4yhq
+G10_A201
+# 3	5tdf	 <-- Too large! IGNORING
+# 1	3rt4	 <-- Too large! IGNORING
+# 6	4zla	 <-- Too large! IGNORING
+1	6ggg
+EYN_A1102
+2	4d86
+ADP_A1202
+ADP_A1201
+# 7	6how	 <-- Too large! IGNORING
+2	2d09
+FLV_A431
+FLV_A432
+1	4hxj
+ARG_GLY_THR_C760
+1	4r5e
+AO3_A403
+# 4	4zfz	 <-- Too large! IGNORING
+1	2ax9
+BHM_A1
+1	4lnp
+VAL_PRO_PRO_PRO_ARG_PRO_PRO_PRO_PRO_GLU_B870
+1	6p9e
+O6D_A4000
+1	1o44
+852_A300
+1	5nw7
+9C2_A502
+1	1fzq
+GDP_A301
+1	5jf2
+SF7_A301
+1	1o5e
+132_H256
+1	1me8
+RVP_A602
+1	5dy5
+5GR_A402
+3	4uyf
+73B_B1185
+73B_A1191
+73B_C1183
+1	1kuv
+CA5_A901
+1	1b7h
+LYS_NLE_LYS_B1
+# 5	3n75	 <-- Too large! IGNORING
+1	2o4j
+VD4_A500
+2	4msg
+2C6_B1402
+2C6_A1402
+1	3ocz
+SRA_A264
+# 2	5dn9	 <-- Too large! IGNORING
+# 2	4w9n	 <-- Too large! IGNORING
+1	3ge7
+AFQ_A390
+2	4qyn
+RTL_B201
+RTL_A201
+1	5hct
+61P_A406
+2	3ttc
+ADP_A747
+ADP_A748
+1	2wr8
+SAH_A1257
+1	2wxd
+E18_M1501
+2	2vnf
+#ALA_ARG_THR_M3L_GLN_THR_ALA_ARG_LYS_SER_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+ALA_ARG_THR_M3L_GLN_THR_ALA_ARG_LYS_SER_D1
+1	3sut
+OAN_A2000
+2	1l2t
+ATP_A1301
+ATP_B1302
+4	3t64
+DU3_A201
+DU3_B201
+DU3_C201
+ALA_HIS_ALA_F1
+# 16	4tsz	 <-- Too large! IGNORING
+2	2rkn
+LP3_A101
+LP3_A102
+1	3ies
+M24_A552
+3	4igh
+ORO_A502
+1EA_A503
+FMN_A501_1
+# 2	3dje	 <-- Too large! IGNORING
+# 4	6ayr	 <-- Too large! IGNORING
+1	4ggl
+CJC_A301
+1	1uj5
+5RP_A302
+2	3qyy
+C2E_A487
+C2E_B486
+1	3b5j
+12D_A708
+# 2	5y24	 <-- Too large! IGNORING
+1	5hmr
+FDZ_A602
+1	1zvx
+FIN_A994
+1	5o58
+A_G_B1
+1	3b9a
+NAG_NAG_NAG_NAG_NAG_NAG_B1
+1	5fp4
+YC8_A1344
+1	3gl6
+#ALA_ARG_THR_M3L_GLN_THR_ALA_ARG_LYS_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	7cpa
+FVF_A309
+2	4wup
+3UF_A302
+3UF_B302
+1	4tmk
+T5A_A214
+1	3aj6
+NGA_B2000
+2	2vbq
+BSJ_A1000
+BSJ_B1146
+# 2	4x6x	 <-- Too large! IGNORING
+# 8	3k8d	 <-- Too large! IGNORING
+1	2itk
+#ACE_PHE_D11_YCP_NAL_GLN_NH2_B501	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	4lh7
+1X8_A401
+NMN_A402
+1	3fn0
+TRP_ASN_TRP_PHE_ASP_ILE_THR_ASN_LYS_P670
+2	1f4f
+TP3_A701
+TP3_B702
+# 2	3ppm	 <-- Too large! IGNORING
+# 4	4cyd	 <-- Too large! IGNORING
+1	2xvd
+AS6_A1889
+1	6kzd
+DZ6_A901
+1	1lnm
+DTX_A700
+1	5goe
+GDP_A901
+1	4poj
+2VP_A501
+# 2	5n9t	 <-- Too large! IGNORING
+2	6r8r
+JV8_A502
+NAG_A501
+1	6a06
+1SY_B403
+1	5wou
+LEU_PRO_SER_PHE_GLU_THR_ALA_LEU_V98
+1	4z2b
+4LC_A705
+# 2	1xon	 <-- Too large! IGNORING
+1	2gvv
+DI9_A502
+1	2w92	  # --> a warning was produced in pdb2pqr conversion.
+NGT_A1809
+1	1bb6
+UMG_A130
+1	3zm6
+2GN_A500
+2	3ucj
+AZM_A229
+AZM_B229
+2	3lqj
+#ALA_ARG_THR_M3L_GLN_THR_ALA_ARG_LYS_Q1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALA_ARG_THR_M3L_GLN_THR_ALA_ARG_LYS_T1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 4	2qzz	 <-- Too large! IGNORING
+2	4ysl
+GSH_A302
+GSH_B302
+# 8	4zcc	 <-- Too large! IGNORING
+1	5i7y
+69G_A201
+# 4	5wp5	 <-- Too large! IGNORING
+# 2	5cjh	 <-- Too large! IGNORING
+# 1	3l4u	 <-- Too large! IGNORING
+3	5xg5
+A2G_A201
+A2G_A203
+A2G_A202
+1	3t2w
+BTN_A600
+1	1jd5
+#ALA_ILE_ALA_TYR_PHE_ILE_PRO_ASP_GLN_ALA_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 3	3hkw	 <-- Too large! IGNORING
+# 10	6fa3	 <-- Too large! IGNORING
+1	1ax2
+NDG_GAL_C1
+1	4fch
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_C1
+# 4	3sud	 <-- Too large! IGNORING
+1	1uw1
+ADP_A1074
+# 4	5u8u	 <-- Too large! IGNORING
+1	4aig
+FLX_A400
+# 4	4jzb	 <-- Too large! IGNORING
+3	5yjw
+SMA_A625
+SMA_A626
+FAD_A601
+2	2v89	  # --> a warning was produced in pdb2pqr conversion.
+ALA_ARG_THR_M3L_GLN_THR_ALA_ALA_LYS_ALA_D3001
+ALA_ARG_THR_M3L_GLN_THR_ALA_ALA_LYS_ALA_E2001
+2	4co3
+ATP_A113
+ATP_B113
+1	4b7p
+9UN_A1226
+2	5l9g
+MO0_A401
+MO0_B401
+2	4ouj
+GLC_GAL_C1
+GLC_GAL_D1
+1	4oth
+DRN_A1001
+# 2	4fxq	 <-- Too large! IGNORING
+4	4kxl
+6C6_D201
+6C6_C201
+6C6_B201
+6C6_A201
+2	6chp
+F0Y_A201
+F0Y_B201
+2	1qin
+GIP_A300
+GIP_B400
+1	5grm
+1SY_B401
+2	5kox
+RFP_A502
+FAD_A501
+1	3ihz
+FK5_A501
+1	2uvj
+ADA_ADA_ADA_B1
+2	6f8b
+CXH_A404
+CXH_A403
+1	4oqr
+2UO_A502
+2	4tyo
+39X_A201
+39X_B201
+2	1u1b
+PAX_A901
+PAX_B902
+1	1xqd
+DND_A502
+1	4gv4
+MEJ_A601
+1	4zzw
+BGC_BGC_C1
+1	6hm1
+AO3_A501
+1	4zb8
+GDS_A300
+1	4whz
+3NL_A501
+1	6pya
+P57_A301
+2	2bsa
+NAP_A1305
+FAD_A1304
+1	6nco
+KQP_A201
+# 1	1w3y	 <-- Too large! IGNORING
+1	1mai
+I3P_A200
+1	1oyt
+FSN_H501
+1	3fci
+3FI_A1
+2	5k8s
+CMP_B501
+CMP_A501
+1	3m89
+GSP_A408
+1	2q8y
+GLN_TYR_PHE_MET_TPO_GLU_PTR_VAL_ALA_B215
+2	4hy1
+19X_B1401
+19X_A1401
+2	6hmr
+GE5_A301
+GE5_B301
+2	1qf5
+RPL_A435
+GDP_A434
+1	3i8p
+840_A501
+2	3had
+NAD_A350
+NAD_B750
+# 2	6c99	 <-- Too large! IGNORING
+2	5cb8
+ADX_B301
+ADX_A301
+4	2vvt	  # --> a warning was produced in pdb2pqr conversion.
+I24_A1269
+I24_B1269
+DGL_A1270
+DGL_B1270
+# 4	6fe1	 <-- Too large! IGNORING
+2	5c0m
+#ALA_ARG_THR_4WQ_GLN_THR_ALA_ARG_LYS_SER_C1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALA_ARG_THR_4WQ_GLN_THR_ALA_ARG_LYS_SER_D1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 4	4zb6	 <-- Too large! IGNORING
+2	6df7
+G9V_A4001
+G9V_B4000
+2	5kva
+SAM_A301
+SAM_B301
+# 2	5x8i	 <-- Too large! IGNORING
+2	1ow4
+2AN_A1004
+2AN_B1003
+2	4c0r
+GDS_A500
+GDS_B500
+4	3ix9
+NDP_A193
+NDP_B193
+MTX_A200
+MTX_B200
+1	4ax9	  # --> a warning was produced in pdb2pqr conversion.
+N5N_H1246
+1	4r43
+GDP_A701
+1	4aax
+NGA_A4641
+1	2xg9
+NOJ_GLC_A1490
+1	1z3v
+BGC_GAL_B1_1
+1	6np2
+SIS_A301
+2	5f1h
+5U6_A201
+5U6_B201
+1	4crz
+ACO_B1129
+1	5n18
+8HZ_A501
+1	2sim
+DAN_A800
+# 4	3ozg	 <-- Too large! IGNORING
+2	5umy
+TNN_A201
+TNN_A202
+1	5wa9
+9ZD_A201
+1	2xn5	  # --> a warning was produced in pdb2pqr conversion.
+FUN_A1356
+1	1k2v
+DEF_N1
+1	5mob
+A8S_A301_1
+# 2	4qhp	 <-- Too large! IGNORING
+1	2cne	  # --> a warning was produced in pdb2pqr conversion.
+DFJ_A1281
+2	4emi
+FAD_A501_1
+NAD_A502
+1	2vj0
+PHE_GLU_ASP_ASN_PHE_VAL_PRO_Q1
+6	2hyq
+MAN_MAN_F1
+MAN_MAN_H1
+MAN_MAN_C1_1
+MAN_MAN_G1
+MAN_MAN_D1_1
+MAN_MAN_E1
+1	3pe2
+E1B_A338
+1	3k00
+GLC_GLC_GLC_GLC_B1_2
+1	2jbz
+COA_A1126
+# 8	2a9w	 <-- Too large! IGNORING
+1	2p3t
+993_B500
+1	5aci
+BGC_BGC_BGC_BGC_BGC_BGC_B1_1
+1	3ldq
+3P1_A401
+4	6ffk
+D7Z_B201
+D7Z_A201
+D7Z_F201
+D7Z_D201
+1	1btn
+I3P_A107
+1	5ljb
+RTL_A201_1
+1	4cd6
+IFM_BMA_A500
+1	4ekv
+BTN_A201
+1	3wud
+GLC_GAL_B1
+# 4	3uxm	 <-- Too large! IGNORING
+4	4bva
+T3_A1314
+T3_B1314
+NDP_A1313
+NDP_B1313
+2	5ylt
+SFG_A401
+C7N_A402
+1	4yc0
+5OF_A301
+1	6a84
+9SU_A1202
+# 2	4v24	 <-- Too large! IGNORING
+2	4rxh
+PRO_PRO_LYS_LYS_LYS_ARG_LYS_VAL_C125
+#PRO_PRO_LYS_LYS_LYS_ARG_LYS_VAL_A128	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 4	4g19	 <-- Too large! IGNORING
+2	3gay
+P6T_A327
+P6T_B329
+1	6gvz
+CHO_A600
+2	4de0
+0JB_A300
+0JB_B301
+2	6d4a
+FVP_A203
+FVP_B202
+1	5jga
+6KC_A601
+3	3fw3
+GLC_A304
+ETS_A302
+ETS_B303
+# 2	3qsb	 <-- Too large! IGNORING
+# 2	6s88	 <-- Too large! IGNORING
+1	3lcv
+SAM_B301_1
+# 2	4eo3	 <-- Too large! IGNORING
+# 4	4jzx	 <-- Too large! IGNORING
+1	3fsm
+2NC_A204
+# 4	1d2e	 <-- Too large! IGNORING
+1	1xuj
+BOZ_A246
+1	5bve
+4VG_A401
+2	1z4o
+GL1_A1220
+GL1_B1221
+1	1gux
+ASP_LEU_TYR_CYS_TYR_GLU_GLN_LEU_ASN_E1
+2	5elq
+#ARG_GLU_ASP_GLN_GLU_THR_ALA_VAL_P201	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ARG_GLU_ASP_GLN_GLU_THR_ALA_VAL_C201	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	5f6u
+5VK_A201
+1	2fqo
+HYI_A703
+2	3zxe
+PGZ_A1
+PGZ_B1
+1	1sqa
+UI1_A1001
+1	4wa4
+G39_A501
+1	2fqx
+GMP_A400
+1	6ced
+EYA_A1304
+4	4de2
+DN3_A301
+DN3_A302
+DN3_B301
+DN3_B302
+1	4lhm
+AZZ_A510
+3	5vjn
+ADE_A205
+IR8_A201
+IR8_B201
+# 8	4cm8	 <-- Too large! IGNORING
+1	6eiz
+FOF_F101
+# 4	3a5y	 <-- Too large! IGNORING
+1	5d2r
+56W_A523
+1	5o7e
+9NB_A803
+1	5z99
+SLB_A501
+1	3mtw
+M3R_A430
+2	5nwd
+9C8_A1201
+9C8_B1201
+1	3fsj	  # --> a warning was produced in pdb2pqr conversion.
+D7K_X601
+2	1sr7
+MOF_A301
+MOF_B302
+2	3djv
+C3P_A125
+C3P_B201
+1	4l1a
+AB1_A101
+2	4uye
+9F9_A1739
+9F9_B1738
+# 2	1zoa	 <-- Too large! IGNORING
+1	6opv
+017_B101
+2	4lae
+NAP_X201
+1VM_X202
+1	3bho
+B4P_A800
+1	2hi4
+BHF_A800
+# 1	3o0g	 <-- Too large! IGNORING
+1	5hff
+#THR_LYS_ASN_TYR_LYS_GLN_PHE_SER_VAL_B2	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 2	2wl4	 <-- Too large! IGNORING
+# 8	3bmq	 <-- Too large! IGNORING
+2	5v3y
+5V8_A1801
+5V8_B1801
+1	4psb
+GA3_A201
+1	1gjc
+130_B251
+# 5	4l6t	 <-- Too large! IGNORING
+2	5hzx
+2GE_B201
+2GE_A201
+# 6	6hpg	 <-- Too large! IGNORING
+1	6ccu
+PRO_HIS_ARG_VAL_B1
+3	3std
+MQ0_A503
+MQ0_B505
+MQ0_C504
+1	2wzg
+UPG_A1525
+1	6ohk
+FMN_A201
+# 2	2hzy	 <-- Too large! IGNORING
+1	3unn
+MET_GLU_ASP_TPO_GLN_ALA_ILE_ASP_B1
+1	6cz3
+FLJ_A9001
+2	1lgt
+BP3_A300
+BP3_A301
+1	3hr1
+PF9_A999
+1	6esn
+BWE_A601
+1	3pn1
+IVH_A319
+1	5vcv
+1N1_A404
+1	2msb
+NAG_BMA_MAN_MAN_MAN_MAN_MAN_C1
+1	1q0y
+MOI_H401
+# 7	4owk	 <-- Too large! IGNORING
+2	1zua
+NAP_X350
+TOL_X1320
+2	1v0o	  # --> a warning was produced in pdb2pqr conversion.
+INR_A2638
+INR_B2638
+# 1	4sga	 <-- Unable to extract ligands. Check error log. IGNORING
+4	5kbf
+CMP_B501_1
+CMP_B502
+CMP_A501_1
+CMP_A502
+2	2c7g
+ODP_A502
+FAD_A501_2
+1	4qbk
+3NZ_A202
+# 7	2f2h	 <-- Too large! IGNORING
+1	2ok0
+DT_DC_D1
+10	4d4u
+GAL_FUC_J1
+NAG_GAL_FUC_C1
+NAG_GAL_FUC_G1_2
+NAG_GAL_FUC_D1_1
+NAG_GAL_FUC_H1_1
+FUC_B950
+FUC_A950
+#NDG_FUC_GAL_FUC_E1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#NDG_FUC_GAL_FUC_I1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#NDG_FUC_GAL_FUC_F1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 3	5v13	 <-- Too large! IGNORING
+1	1oh3
+GLC_BGC_BGC_BGC_BGC_BGC_C1
+# 3	5aei	 <-- Too large! IGNORING
+1	3ll2
+MAN_MAN_MAN_MAN_MAN_MAN_MAN_MAN_B1
+2	3qug
+GIX_A700
+GIX_B700
+2	1csi
+CMX_A700
+OAA_A702
+1	6gk6
+MYR_A502
+# 2	6c5k	 <-- Too large! IGNORING
+# 2	2wl5	 <-- Too large! IGNORING
+2	4rd0
+GDP_A503
+GDP_A501
+# 3	1m5b	 <-- Too large! IGNORING
+# 2	5m77	 <-- Too large! IGNORING
+# 5	2r5n	 <-- Too large! IGNORING
+1	6jav
+BC0_A2101
+1	3b50
+SLB_A311
+1	6c8c
+EQ7_B201
+1	3b1m
+KRC_A1
+# 2	2gsu	 <-- Too large! IGNORING
+1	1a5v
+Y3_A1
+2	5dk4
+5BX_A404
+ATP_A401_1
+2	4wq2
+3SU_A301
+3SU_B301
+1	4d7m	  # --> a warning was produced in pdb2pqr conversion.
+TDC_A222
+2	4ra1
+ALX_A601
+BNX_A602
+1	6ofq
+SER_THR_SER_ALA_B1
+# 2	3b6h	 <-- Too large! IGNORING
+4	3c8e
+GSH_A289
+GSH_A290
+GSH_B289
+GSH_B290
+# 2	2r8q	 <-- Too large! IGNORING
+# 4	1xw6	 <-- Too large! IGNORING
+4	5lpa
+71R_A302
+71R_B302
+ATP_B301
+ATP_A301
+# 8	6f3n	 <-- Too large! IGNORING
+# 2	5d3u	 <-- Too large! IGNORING
+# 4	3mkn	 <-- Too large! IGNORING
+# 1	6ma3	 <-- Too large! IGNORING
+1	5l2z
+70C_H301
+# 2	1w0o	 <-- Too large! IGNORING
+1	4p9z
+NMI_PTR_02K_ASN_NH2_B1
+# 2	4oag	 <-- Too large! IGNORING
+1	2cb8
+MYA_B1089
+# 4	4r74	 <-- Too large! IGNORING
+1	1jq9
+PHE_LEU_SER_TYR_LYS_P1
+# 4	1bzy	 <-- Too large! IGNORING
+2	5lx6
+78P_A1101
+78P_B1101
+3	4p3h
+25G_B205
+25G_A201
+25G_B204
+# 2	3kjd	 <-- Too large! IGNORING
+# 4	6j0g	 <-- Too large! IGNORING
+1	2o4n
+TPV_A300
+1	5m1z
+6LW_AHR_B1
+1	6hh2
+GDP_A201
+# 8	3jqg	 <-- Too large! IGNORING
+1	1mmq
+RRS_A269
+2	1zq5
+NAP_A600
+E04_A400
+# 2	5gjo	 <-- Too large! IGNORING
+6	1n8v
+BDD_A501
+BDD_A502
+BDD_A503
+BDD_B511
+BDD_B512
+BDD_B513
+2	3dfr
+NDP_A163
+MTX_A164
+# 4	4ymh	 <-- Too large! IGNORING
+1	5ibe
+69M_A403
+1	4ocj
+NDG_A401
+2	1sem
+#ACE_PRO_PRO_PRO_VAL_PRO_PRO_ARG_ARG_ARG_C1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ACE_PRO_PRO_PRO_VAL_PRO_PRO_ARG_ARG_ARG_D1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	3qxc
+ATP_A221
+1	5my8
+RXZ_A724
+1	3n7o
+N7O_A1
+2	4p6c
+RES_B500
+RES_A500
+1	5ygf
+ASP_GLN_GLY_ARG_GLY_ARG_ARG_ARG_PRO_D4
+2	5cyv
+WCA_B202
+WCA_B201
+1	5yic
+8VO_A401
+1	1gui
+BGC_BGC_BGC_BGC_BGC_BGC_B1_2
+# 7	5lxt	 <-- Too large! IGNORING
+# 4	1m2x	 <-- Too large! IGNORING
+1	2hk5
+1BM_A499
+1	5err
+ADP_A801
+1	3ioi
+1GW_A355
+# 3	5hk9	 <-- Too large! IGNORING
+2	1dqn
+IMU_A300
+IMU_B301
+4	1jg0
+UMP_A303
+UMP_B305
+DDT_A304
+DDT_B306
+1	1vyf
+OLA_A1134
+1	4ikr
+PVP_A404
+# 1	3ejr	 <-- Too large! IGNORING
+4	1qfy
+NAP_A310
+NAP_B810
+FAD_A309
+FAD_B809
+2	2imf
+TOM_A305
+GSH_A301
+1	1db1
+VDX_A428
+2	6ftf
+7CI_B604
+7CI_B605
+3	5o42
+9JW_A304
+BGC_A303
+NAD_A301
+# 8	4clo	 <-- Too large! IGNORING
+1	4s3f
+43W_A902
+# 4	2q6b	 <-- Too large! IGNORING
+1	3okp
+GDD_A601
+# 1	2bnq	 <-- Too large! IGNORING
+1	3l5r
+47X_A123
+1	2h6t
+IVA_VAL_VAL_STA_ALA_STA_B1
+# 4	5a6b	 <-- Too large! IGNORING
+5	4dds
+0J7_A301
+0J7_A302
+0J7_A303
+0J7_B301
+0J7_B302
+2	2rde
+C2E_A301
+C2E_B301
+1	4xub
+43D_A2001
+2	1o8b
+ABF_A1269
+ABF_B1269
+# 8	3fv3	 <-- Too large! IGNORING
+1	4i71
+AGV_A401
+4	2f01
+BTN_A5100
+BTN_B5200
+BTQ_A5101
+BTQ_B5201
+1	5ovc
+ACE_GLU_ALA_GLN_THR_ARG_LEU_B986
+2	1jje
+BYS_A250
+BYS_B250
+# 4	4mo4	 <-- Too large! IGNORING
+1	4ewn
+0VR_D400
+1	1ygc
+905_H1
+2	5gt9
+NAP_A301_1
+NAP_B301
+# 3	4cjn	 <-- Too large! IGNORING
+2	6dyv
+OS3_A306
+OS3_B305
+# 3	1mzc	 <-- Too large! IGNORING
+2	5j6d
+6H5_B504
+6H5_A504
+# 4	1naa	 <-- Too large! IGNORING
+# 2	1uz8	 <-- Too large! IGNORING
+# 2	5tz1	 <-- Too large! IGNORING
+# 4	2zru	 <-- Too large! IGNORING
+# 8	4hbm	 <-- Too large! IGNORING
+1	2hy0
+306_A324
+1	6o0k
+LBM_A301
+# 1	1y4z	 <-- Too large! IGNORING
+1	3mwl
+8OX_B209
+1	5nb7
+8NQ_A303
+# 4	1v08	 <-- Too large! IGNORING
+# 2	4l6h	 <-- Too large! IGNORING
+2	4zgm
+32M_A201
+32M_B101
+1	5egm
+5NY_A303
+# 8	4cm4	 <-- Too large! IGNORING
+2	1tw6
+#ALA_VAL_PRO_ILE_ALA_GLN_LYS_SER_GLU_C1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ALA_VAL_PRO_ILE_ALA_GLN_LYS_SER_GLU_D1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 4	4p6g	 <-- Too large! IGNORING
+# 1	6i96	 <-- Too large! IGNORING
+2	1m48
+FRG_A301
+FRG_B302
+# 2	5g57	 <-- Too large! IGNORING
+1	1of4
+BMA_BMA_BMA_BMA_BMA_B1
+1	3uwb
+BB2_A154
+1	5n1z
+8GQ_A202
+1	6oa3
+M0M_A1001
+1	1lo8
+4CA_A170
+1	4he2
+AMP_A401
+1	2pvn
+P63_A501
+# 2	2cet	 <-- Too large! IGNORING
+2	5cmk
+LY5_B301
+GLU_A301
+# 12	5n99	 <-- Too large! IGNORING
+1	2uyq
+SAM_A1311
+# 2	2v57	 <-- Too large! IGNORING
+1	4p7r
+NAG_NAG_NAG_NAG_B1
+1	2wuf
+KEM_B1289
+1	2cbz	  # --> a warning was produced in pdb2pqr conversion.
+ATP_A1873
+4	2oz5
+7XY_A277
+7XY_A278
+7XY_B277
+7XY_B278
+1	5fsy
+AR6_A1262
+1	5jwm
+6ON_A501
+4	1tsd
+UMP_A267
+UMP_B265
+F89_A268
+F89_B266
+1	5n2f
+8HW_B201
+1	5jnw
+6LJ_A202
+2	5owc
+AYZ_B202
+AYZ_A202
+2	1frb
+NDP_A350
+ZST_A351_1
+1	1vjy
+460_A999
+1	6qpl
+JC5_B305
+2	5tdc
+NMM_ILE_PHE_SER_D1
+#NMM_ILE_PHE_SER_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	1h6h
+PIB_A150
+1	5hz5
+65X_A203
+2	5j5r
+IMP_A402
+6G1_A401
+1	5h4j
+FKM_A201
+1	2yay
+DUP_A1265
+2	5n58	  # --> a warning was produced in pdb2pqr conversion.
+93W_B502
+93W_A502
+1	5d48
+L96_A201
+2	3d9t
+#ALA_THR_PRO_PHE_GLN_GLU_C1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+ALA_THR_PRO_PHE_GLN_GLU_D1
+# 12	2cjf	 <-- Too large! IGNORING
+1	2pqb
+GG9_A501_1
+2	6os6
+DST_A401
+TRP_A402
+2	1szd
+APR_A1001
+#LYS_GLY_GLY_ALA_ALY_ARG_HIS_ARG_LYS_ILE_B12	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	4lj3
+C2E_B401
+C2E_A401
+1	4mwv
+BCZ_A513
+4	3hgm
+ATP_A148
+ATP_B148
+ATP_C148
+ATP_D148
+4	4gk9
+BMA_MAN_MAN_MAN_MAN_B1
+BMA_MAN_MAN_MAN_MAN_D1
+BMA_MAN_MAN_MAN_MAN_E1
+BMA_MAN_MAN_MAN_MAN_C1
+2	6bqk
+Z1E_B301
+Z1E_A301
+2	5kjk
+6T1_A506
+SAM_A501
+1	2f5t
+GLC_GLC_A1
+2	1nfs
+DED_A301
+DED_B302
+2	1fhw
+I5P_A1001
+I5P_B1002
+1	1rnt
+2GP_A105
+# 2	4a22	 <-- Too large! IGNORING
+1	5le1
+6UW_A503
+# 2	3axk	 <-- Too large! IGNORING
+2	3cb0
+FMN_A200
+FMN_B300
+1	2ci0	  # --> a warning was produced in pdb2pqr conversion.
+1CM_A1450
+1	5xxh
+E0D_A1201
+1	5eko
+N17_A401
+1	2fxd
+DR7_A102
+# 2	3wol	 <-- Too large! IGNORING
+1	5cs2
+54C_WLU_ALA_WPA_VAL_MLE_WVL_B1
+1	3rwp
+ABQ_A360
+1	1zc9
+PMP_A502
+1	6mg5
+6ZW_B302
+# 2	3lex	 <-- Too large! IGNORING
+1	4wh9
+3M8_A601
+1	1qzy
+TDE_A500
+# 6	1zpt	 <-- Too large! IGNORING
+1	3vrv
+YSD_A501
+1	1gua
+GNP_A170
+1	2z7r
+STU_A1
+# 1	3dst	 <-- Too large! IGNORING
+# 1	4ii9	 <-- Unable to extract ligands. Check error log. IGNORING
+1	5t7i
+BGC_GAL_NAG_GAL_B1
+# 2	5za2	 <-- Too large! IGNORING
+# 2	3dnt	 <-- Too large! IGNORING
+2	4f9u
+PBD_A402
+PBD_B402
+# 2	2ya8	 <-- Too large! IGNORING
+# 2	4qge	 <-- Too large! IGNORING
+2	3rlb
+VIB_A191
+VIB_B187
+2	5i7s
+E9P_A302
+NAD_A301_1
+1	1svk
+#ALF_GDP_A357	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 3	3loo	 <-- Too large! IGNORING
+# 3	4qrh	 <-- Too large! IGNORING
+# 2	5jjr	 <-- Too large! IGNORING
+2	5ncf
+8T5_B204
+8T5_A201
+4	2xnj
+NAP_A1258
+NAP_B1258
+FAD_A1257
+FAD_B1257
+# 4	4cft	 <-- Too large! IGNORING
+2	5igi
+GMP_A401
+ZIT_A402
+1	3l1n
+PLM_A161
+# 8	3c6k	 <-- Too large! IGNORING
+1	2puy
+ALA_ARG_THR_LYS_GLN_THR_ALA_ARG_LYS_SER_E1
+# 4	4kcl	 <-- Too large! IGNORING
+2	2wr9
+MAN_MAN_F1_1
+MAN_MAN_E1_1
+# 1	2vba	 <-- Too large! IGNORING
+# 2	2cfd	 <-- Too large! IGNORING
+1	5tbm
+79A_A401
+4	5khd
+C2E_A201_2
+C2E_R201
+C2E_A202
+C2E_R202
+2	6ucs
+Q41_A401
+Q41_B401
+1	6h36
+FKE_A302
+2	4bqo	  # --> a warning was produced in pdb2pqr conversion.
+COA_B1312
+COA_A1312
+4	1syn
+UMP_A300
+UMP_B300
+F89_A301
+F89_B301
+# 8	6arj	 <-- Too large! IGNORING
+2	5epl
+5R0_PHE_ALA_LEU_ELY_5R5_C0
+5R0_PHE_ALA_LEU_ELY_5R5_D0
+2	2r14
+TXD_A600
+FMN_A401
+1	5ue4
+5XQ_B307
+1	5e13
+5J9_A201
+1	4gql
+R47_A306
+2	3k05
+SEP_GLN_GLU_TYR_NH2_C139
+SEP_GLN_GLU_TYR_NH2_D139
+# 6	6sgf	 <-- Too large! IGNORING
+1	5yy4
+#ASP_ILE_ASN_TYS_TYS_THR_SER_GLU_PRO_B2	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	5db3
+58Q_A610
+2	3m6p
+BB2_A194
+BB2_B194
+2	4iph
+1FJ_A201
+1FJ_A202
+1	2wor
+2AN_A1098
+# 4	4b9k	 <-- Too large! IGNORING
+1	1mfg
+GLU_TYR_LEU_GLY_LEU_ASP_VAL_PRO_VAL_B1247
+4	2nx1
+RP5_A1269
+RP5_B2269
+PEP_A1268
+PEP_B2268
+1	6i18
+H0N_A507
+4	6bn0
+NAG_NAG_NAG_NAG_NAG_NAG_E1
+NAG_NAG_NAG_NAG_NAG_NAG_G1
+NAG_NAG_NAG_NAG_NAG_NAG_F1
+NAG_NAG_NAG_NAG_NAG_NAG_H1
+1	1p6d
+3PC_A601
+1	2wei
+VGG_A600
+# 2	5qb1	 <-- Too large! IGNORING
+2	5wo4
+B7V_A2001
+B7V_B2001
+# 1	5npr	 <-- Too large! IGNORING
+2	3e2m
+E2M_A1
+E2M_B1
+3	6hde
+DUP_A202
+DUP_B201
+DUP_A201
+1	4wkc
+BIG_A301
+1	4lcn
+GNG_A202
+1	1xjd
+STU_A200
+2	2fwp
+ICR_A1001
+CIT_B1002
+# 10	3r5w	 <-- Too large! IGNORING
+1	3h7u
+NAP_A401_1
+# 2	4u7w	 <-- Too large! IGNORING
+1	5byz
+4WE_A401
+2	5gu4
+#ASP_ASP_MET_GLY_PHE_GLY_LEU_PHE_ASP_C2	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ASP_ASP_MET_GLY_PHE_GLY_LEU_PHE_ASP_D2	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	4gfd
+0YB_A301
+0YB_B301
+1	2fr3
+REA_A300
+2	6er4
+BGC_GAL_SIA_C1
+BGC_GAL_SIA_D1
+# 1	5hi5	 <-- Too large! IGNORING
+1	3i9g
+S1P_L401
+2	5wqj
+7N3_A301
+7N3_B301
+2	4onc
+40B_A500
+40B_B500
+# 8	5jdc	 <-- Too large! IGNORING
+3	5o3q
+CMP_B202
+CMP_B201
+CMP_A200
+1	2pv1
+TRP_GLU_TYR_ILE_PRO_ASN_VAL_B1
+1	1sl3
+170_A1001
+1	3ckz
+ZMR_A469
+1	5udk
+ATP_A_A_A_B1
+1	4dv8
+0LX_A802
+3	6g5j
+EM8_A202
+EM8_A203
+EM8_B202
+# 1	3o5n	 <-- Too large! IGNORING
+1	1bxo
+PP7_A324
+# 6	2yne	 <-- Too large! IGNORING
+1	4lwu
+20U_A201
+2	2v77
+PAY_A400
+PAY_B400
+1	6m88
+MYC_A501
+# 4	3rhj	 <-- Too large! IGNORING
+1	1re9
+DSO_A601
+1	3bjc
+WAN_A901
+1	4er2
+IVA_VAL_VAL_STA_ALA_STA_I1
+1	1kel
+AAH_H219
+3	6d19
+YKG_A303
+YKG_A302
+YKG_A301
+1	2aco
+VCA_B501
+1	6mlf
+JV4_A501
+1	5bv6
+35G_A501
+# 5	5ldq	 <-- Too large! IGNORING
+2	3q9n
+COA_A1072
+COA_B1072
+1	6cyi
+N5O_A404
+1	2vtd	  # --> a warning was produced in pdb2pqr conversion.
+LKM_A1441
+# 13	4up4	 <-- Too large! IGNORING
+# 2	6bii	 <-- Too large! IGNORING
+# 9	4rus	 <-- Too large! IGNORING
+# 8	3jq7	 <-- Too large! IGNORING
+2	4h4d
+10E_A402
+10E_B402
+4	4q1a
+UDP_A302
+UDP_B302
+2XZ_B301
+2XZ_A301
+2	4xuc
+43G_A301
+SAM_A303
+# 4	6h0h	 <-- Too large! IGNORING
+1	6c5f
+7L9_B201
+2	3v3l
+V3L_A1
+V3L_B1
+2	1nf8
+BOG_A250
+ISC_A220
+1	4wk1
+2BA_A201
+1	6fmc
+DUE_A501
+1	5ls7
+ACO_B203
+2	4m0r
+644_A600
+644_B600
+1	6d1d
+GTV_A303
+4	6mfl
+OPV_A403
+OPV_B402
+OPV_B403
+OPV_A402
+2	6g14
+G4P_A301
+G4P_B301
+2	1f74
+NAY_A950
+NAY_C951
+# 4	6rqk	 <-- Too large! IGNORING
+1	2vfk
+AMP_A1293
+1	2ccv
+A2G_A1101
+1	6iph
+DTP_A503
+2	3a1c
+ACP_B997
+ACP_A997
+1	6ej2
+B7E_A901
+# 2	4azi	 <-- Too large! IGNORING
+# 2	3un3	 <-- Too large! IGNORING
+2	4wmy
+3S6_A404
+3S6_B404
+2	2j83
+BAT_A996
+BAT_B996
+1	5vc5
+96M_A601
+4	4r6w
+PC_B301
+PC_A301
+SAH_A302
+SAH_B302
+1	1lor
+BMP_A2001
+1	4e93
+GUI_A901
+1	4p5z
+Q7M_A1001
+1	2cn0
+F25_H1246
+# 2	4z76	 <-- Too large! IGNORING
+# 8	3bmo	 <-- Too large! IGNORING
+2	5t52
+A2G_B303
+NGA_A303
+3	5nc1
+NAG_A801
+NAG_C801
+NAG_B801
+1	3rj5
+NAD_A850
+4	3gpo
+APR_A161
+APR_B161
+APR_C161
+APR_D161
+1	2jdc
+CAO_A1147
+# 2	2oyl	 <-- Too large! IGNORING
+# 8	1f28	 <-- Too large! IGNORING
+1	6ie8
+CHD_A201
+# 1	5lb7	 <-- Unable to extract ligands. Check error log. IGNORING
+1	4uib
+GWX_A1318
+1	3g08
+FEE_A286
+# 8	5k6a	 <-- Too large! IGNORING
+1	6moa
+JW4_A501
+# 4	6apv	 <-- Too large! IGNORING
+1	2fkf
+G16_A465
+2	5fh7
+5XL_A803
+5XL_B801
+2	5yyf
+#PHQ_GLN_THR_ALA_ARG_LYS_NH2_FOA_D4	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#PHQ_GLN_THR_ALA_ARG_LYS_NH2_FOA_B4	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	6g34
+5ID_A401
+1	4bqh
+9VU_A1539
+1	2nnq
+T4B_A293
+2	2i74
+MAN_MAN_MAN_MAN_C1
+MAN_MAN_MAN_MAN_D1
+1	2vh6
+GSV_A1245
+1	2o9v
+VAL_PRO_PRO_PRO_VAL_PRO_PRO_PRO_PRO_SER_B45
+2	3mi2
+PFU_A1
+PFU_B1
+1	1q72
+COC_H401
+2	6ap8
+BNY_A401
+BNY_B401
+1	1y57
+MPZ_A600
+# 11	6f5w	 <-- Too large! IGNORING
+1	2yc5
+6BC_A1300
+1	4wt2
+3UD_A201
+# 2	1y79	 <-- Too large! IGNORING
+1	1cka
+#PRO_PRO_PRO_ALA_LEU_PRO_PRO_LYS_LYS_ARG_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	2yoh
+WMJ_A211
+WMJ_B211
+# 2	4c1m	 <-- Too large! IGNORING
+1	5j47
+6JJ_A703
+1	5w0e
+9U4_A1201
+2	2nxe
+SAM_A302
+SAM_B303
+1	4fl3
+ANP_A701
+2	1pzo
+CBT_A300
+CBT_A301
+1	1fkb
+RAP_A108
+# 8	3jq8	 <-- Too large! IGNORING
+2	4pow
+OP1_A303
+OP1_B301
+1	3a6t
+8OG_A134
+# 1	1ols	 <-- Too large! IGNORING
+# 8	3tmk	 <-- Too large! IGNORING
+1	1nox
+FMN_A300
+1	5m04
+GDP_A401
+# 2	5kr7	 <-- Too large! IGNORING
+4	5a7c
+5D4_A500
+5D4_D500
+5D4_C500
+5D4_B500
+# 4	5xfv	 <-- Too large! IGNORING
+1	1v0l
+XIF_XYP_A1304
+3	1ucn
+ADP_A1160
+ADP_B2160
+ADP_C3160
+1	1pmh
+MAN_BMA_BMA_BMA_BMA_BMA_A1
+1	6mae
+JBA_A301
+1	3zei
+AWH_A1302
+# 8	6gcl	 <-- Too large! IGNORING
+2	4omj
+2TX_B308
+2TX_A310
+2	6qfe
+J08_A305
+J08_B305
+2	5eyk
+5U5_B401
+5U5_A401
+# 4	2wkt	 <-- Too large! IGNORING
+2	3qzs
+#LYS_GLY_GLY_ALA_ALY_ARG_HIS_ARG_LYS_VAL_C14	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#LYS_GLY_GLY_ALA_ALY_ARG_HIS_ARG_LYS_VAL_D14	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	6qi4
+FKW_B212
+# 2	4gbd	 <-- Too large! IGNORING
+# 4	4zba	 <-- Too large! IGNORING
+2	1eb1
+ASP_TYR_GLU_PRO_ILE_PRO_GLU_GLU_ALA_PHE_A10
+ZAL_PRO_MMO_B1
+4	3hp8
+GLC_FRU_C1
+GLC_FRU_F1
+GLC_FRU_E1
+GLC_FRU_D1
+2	5mlj
+9ST_B902
+9ST_A902
+2	2drc
+MTX_A161
+MTX_B161
+6	5csd
+ACD_D201
+ACD_B202
+ACD_A201
+ACD_B201
+ACD_A202
+ACD_C201
+1	4mn3
+ACE_PHE_ALA_TYR_M3L_SER_NH2_B1
+4	1aoe
+NDP_A193_1
+NDP_B193_1
+GW3_A194
+GW3_B194
+1	3gz9
+D32_A1
+1	4ogn
+2U5_A201
+1	2fav
+APR_B477
+1	4xrq
+1B0_A301
+1	5drb
+5FJ_A501
+# 16	4q9n	 <-- Too large! IGNORING
+# 2	3aho	 <-- Too large! IGNORING
+# 4	4dr9	 <-- Too large! IGNORING
+1	3upv
+PRO_THR_VAL_GLU_GLU_VAL_ASP_B650
+# 2	3f5k	 <-- Too large! IGNORING
+1	4w97
+UCA_A301
+1	4u0i
+0LI_A1001
+# 4	5gzk	 <-- Too large! IGNORING
+2	3srv
+S19_A1
+S19_B2
+1	3sk2
+GRI_A130
+# 4	3ebb	 <-- Unable to extract ligands. Check error log. IGNORING
+1	6nel
+KKV_A304
+2	4au8
+Z3R_B1293
+Z3R_A1293
+# 3	6gbx	 <-- Too large! IGNORING
+1	2bzz
+AP5_A2135
+# 2	2zkj	 <-- Too large! IGNORING
+1	6cdg
+PRO_GLY_LEU_TRP_LYS_SER_B1
+3	4rrg
+A3T_A501
+A3T_B201
+A3T_C201
+# 8	3f5o	 <-- Too large! IGNORING
+# 3	4umx	 <-- Too large! IGNORING
+1	2d4n
+DUP_A777_1
+1	6c0t
+EE4_A701
+# 8	5vl2	 <-- Too large! IGNORING
+# 4	1pvn	 <-- Too large! IGNORING
+# 2	2jjk	 <-- Too large! IGNORING
+# 2	5azg	 <-- Unable to extract ligands. Check error log. IGNORING
+# 18	4yee	 <-- Too large! IGNORING
+4	3juq
+AJD_A500
+AJD_B500
+AKD_A600
+AKD_B600
+1	1ux7	  # --> a warning was produced in pdb2pqr conversion.
+XYP_XYP_XYP_B1
+# 2	5abh	 <-- Too large! IGNORING
+2	6ap6
+TLF_A300
+TLF_B300
+2	3uw5
+MAA_CHG_PRO_0DQ_Y1
+MAA_CHG_PRO_0DQ_Z1
+2	3ttz
+07N_A1
+07N_B2
+6	3cql
+NDG_A244
+NDG_A246
+NAG_A245
+NAG_B244
+NAG_B245
+NAG_B246
+1	3lxk
+MI1_A1125
+1	3tge
+TGE_A999
+3	5ior
+RBF_A303
+FAD_A301
+DUS_A302
+2	1nq7
+HIS_LYS_ILE_LEU_HIS_ARG_LEU_LEU_GLN_GLU_B687
+ARL_A800
+# 3	1g2o	 <-- Too large! IGNORING
+2	5n17
+8FK_B401
+8FK_A401
+# 2	4z0u	 <-- Unable to extract ligands. Check error log. IGNORING
+1	5tp0
+BRN_A306
+1	5u6d
+7XG_A501
+# 10	1qxo	 <-- Too large! IGNORING
+1	6t2w
+M9T_A1001
+2	6bjo
+DUY_A201
+DUY_B201
+# 2	2ff4	 <-- Too large! IGNORING
+2	2hf9
+GSP_A300
+GSP_B300
+2	5ggn
+LEC_B301
+LEC_A301
+# 4	5ofi	 <-- Too large! IGNORING
+1	3vhe
+42Q_A1170
+2	5g3n	  # --> a warning was produced in pdb2pqr conversion.
+X28_B1126
+X28_A1129
+1	4ikn
+#SER_ASP_TYR_GLN_ARG_LEU_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	6jsz
+C7O_A401
+2	3k87
+FAD_A600
+FAD_B500
+2	4bcs
+BTN_A1128
+BTN_B1128
+1	1b8o
+IMH_A600
+# 2	4hap	 <-- Too large! IGNORING
+2	1flm
+FMN_A123
+FMN_B123
+1	5lyr
+MAN_MNM_A403
+1	4g0p
+U5P_A801
+1	1fh8
+XYP_XIF_A601
+# 4	6ami	 <-- Too large! IGNORING
+1	1fo3
+KIF_A704
+# 1	5nn6	 <-- Too large! IGNORING
+1	2qrk
+AMP_A500
+1	5h5f
+SAM_A301_1
+1	1pa9
+CSN_A737
+1	4l6c
+0BT_A303
+1	3q9o
+NAD_A700
+# 8	6f3m	 <-- Too large! IGNORING
+2	3hb5
+NAP_X360
+E2B_X700
+# 2	5n0f	 <-- Too large! IGNORING
+1	3s43
+478_A401
+1	5g0h
+E1Z_A1801
+1	3ggu
+017_B201
+1	6gx6
+A_C_A_C_B1
+1	5y86
+HRM_A601
+2	3kjq
+B94_A480
+B94_A481
+2	4wkb
+TDI_B301
+TDI_A301
+1	5tpc
+#GAL_SIA_NGA_GAL_SIA_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	5unj
+RJW_A601
+1	4rh5
+#PHE_SER_ALA_PTR_PRO_SER_GLU_GLU_ASP_B846	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	5ewk
+P34_A301
+# 2	1koj	 <-- Too large! IGNORING
+2	5org
+6DB_A321
+6DB_B313
+1	2bvd
+ISX_A1284
+1	1x39
+IDE_A1001
+2	4unr
+QZE_A1211
+QZE_B1211
+1	2y6o
+1N1_A1892
+2	4muv
+PCG_A401
+PCG_B401
+5	1tl2
+NDG_A237
+NDG_A238
+NDG_A239
+NDG_A240
+NDG_A241
+# 2	2chn	 <-- Too large! IGNORING
+# 2	2fzw	 <-- Too large! IGNORING
+1	2ec9
+24X_H999
+# 5	4afh	 <-- Too large! IGNORING
+1	5cjf
+520_A302
+# 4	6c7d	 <-- Too large! IGNORING
+1	4jsr
+1NQ_A402
+2	3pd2
+A3S_A500
+A3S_B501
+1	4eox
+0S5_P302
+1	5e95
+GDP_A201_1
+2	1ydk
+GTX_A5100
+GTX_B5200
+2	5icv
+#MET_LYS_ALA_VAL_1XE_C1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#MET_LYS_ALA_VAL_1XE_D1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	4n7u
+2JA_A501
+1	1kuk
+PCA_LYS_TRP_B251
+1	6nwk
+DEX_A301
+3	3qx9
+ATP_A1
+ATP_B1
+ATP_C1
+2	3re4
+TO1_A259
+TO1_B259
+1	2hw2
+RFP_A1200
+# 2	4zze	 <-- Too large! IGNORING
+4	1tmm
+APC_A171
+APC_B371
+HHR_A181
+HHR_B381
+# 3	1nzy	 <-- Too large! IGNORING
+1	5kv9
+I57_B605
+2	1jyq
+MAZ_PTR_PTM_ASN_H200
+MAZ_PTR_PTM_ASN_L200
+1	5ml3
+DL3_B201
+# 2	2vot	 <-- Too large! IGNORING
+2	2e5y
+ATP_A1001
+ATP_B1002
+1	3vyk
+MMA_MAN_NAG_MAN_NAG_NAG_B1
+1	6haj
+EVB_B101
+1	3si2
+PBD_A999
+1	4ca5
+3EF_A1700
+1	2dqu
+CPD_H501
+# 2	3gjf	 <-- Too large! IGNORING
+1	6bm5
+SAM_A1301
+1	1erb	  # --> a warning was produced in pdb2pqr conversion.
+ETR_A184
+3	3njq
+NJQ_A197
+NJQ_B198
+NJQ_B199
+1	6dyz
+OS2_A307
+1	3rl3
+5GP_A951
+1	2xju
+MAN_MAN_B1_1
+2	3r35
+4CO_A170
+4CO_B170
+4	5n8v
+KZZ_F101
+KZZ_D101
+KZZ_A101
+KZZ_B101
+1	6asz	  # --> a warning was produced in pdb2pqr conversion.
+GLN_THR_ALA_ARG_M3L_SER_P5
+2	4x3s
+#ARG_GLY_PHE_ALA_LEU_M3L_SER_THR_HIS_GLY_C1165	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ARG_GLY_PHE_ALA_LEU_M3L_SER_THR_HIS_GLY_D1165	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 1	5ytu	 <-- Too large! IGNORING
+2	5vm0
+9EG_A202
+9EG_B203
+1	3w9k
+MYR_A201
+2	6gjw
+F2H_D102
+F2H_C102
+3	2qtr
+DND_A191
+DND_B192
+DND_C191
+2	1x1z
+BMP_A301
+BMP_A302
+# 1	1k3t	 <-- Too large! IGNORING
+3	4q0a
+GLY_HIS_LYS_ILE_LEU_HIS_ARG_LEU_LEU_GLN_D687
+4OA_C501
+4OA_C502
+# 12	6nlk	 <-- Too large! IGNORING
+2	6j3p
+B8O_B900
+B8O_A900
+2	4tx6
+38B_A401
+38B_B401
+# 4	5syn	 <-- Too large! IGNORING
+4	2jfz
+003_A1256
+003_B1256
+DGL_A1257
+DGL_B1257
+1	4az6
+OAN_A1614
+1	4fk7
+P34_A1001
+1	5a8y
+VBM_A1001
+2	6a56
+BGC_GAL_D1_1
+BGC_GAL_C1_1
+2	1y52
+BTN_X801
+BTN_Y802
+1	6hdn
+FZB_A1206
+# 2	2z8e	 <-- Too large! IGNORING
+1	5ody
+9SK_A301
+2	1udb
+UFG_A341
+NAD_A340
+# 2	4g68	 <-- Too large! IGNORING
+# 2	2ntb	 <-- Too large! IGNORING
+1	2q8g
+AZX_A438
+# 4	6hdu	 <-- Too large! IGNORING
+1	1ida
+0PO_B100
+2	3nty
+5P3_A350
+NAP_A351
+1	1s5p
+LYS_GLY_GLY_ALA_ALY_ARG_HIS_ARG_B12
+2	5fow
+#ACE_TRP_HIS_THR_ALA_NH2_NH2_F0	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ACE_TRP_HIS_THR_ALA_NH2_NH2_E0	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+3	2ggx
+NPJ_A700
+NPJ_B700
+NPJ_C700
+1	5fwa
+J7C_A1446
+1	5x4q
+7Z6_A801
+1	5elw
+5LD_A303
+1	2xmy
+CDK_A500
+# 2	4jaw	 <-- Too large! IGNORING
+2	5d3x
+4IP_A501
+4IP_B501
+1	4cd5
+BMA_MVL_A1422
+# 5	6agt	 <-- Too large! IGNORING
+1	1yej
+PNF_L551
+1	1ws1
+BB2_A400
+1	1akv
+FMN_A152
+1	1x9q
+FLU_A1341
+1	2x5w
+K2B_A1429
+3	5c79
+PBU_B502
+PBU_B503
+PBU_A800
+1	2ifb
+PLM_A133
+# 2	5vje	 <-- Too large! IGNORING
+1	2hzq
+STR_A300
+1	2dkn
+NAI_A4000
+1	6fuv
+BMA_BMA_BMA_B1
+1	4kot
+CE3_A205
+# 9	2w9s	 <-- Too large! IGNORING
+1	3k5x
+P8D_A401
+2	3nzk
+C90_A501
+C90_B501
+2	1ga8
+UPF_A501
+BGC_Z9D_B1
+2	5jic
+N7E_A303
+ADP_A302
+2	5sym
+71Q_A301
+71Q_B301
+1	2ihk
+CSF_A1741
+1	5k13
+6Q7_A501
+2	5vw2
+FDA_A403
+NAP_A404
+1	5h9q
+TD2_B201
+1	4xqa
+423_B401
+# 3	4kp7	 <-- Too large! IGNORING
+1	4yzn
+4K5_A1301
+1	4e1n
+TQX_A301
+1	5a5d
+5LC_A500
+# 1	5tef	 <-- Too large! IGNORING
+2	3wis
+FMN_A201_1
+FMN_A202
+6	5o0b
+9FE_A201
+9FE_B202
+9FE_B201
+9FE_A202
+9FE_C202
+9FE_C201
+1	3sm2
+478_A126
+1	1zea
+DVA_DPR_GLY_DSN_DGN_DHI_DTY_DAS_DSN_A1
+4	3eel
+NDP_A228
+NDP_B228
+53T_A229
+53T_B229
+2	6cen
+ACE_GLY_VAL_NLE_ARG_ILE_NH2_D0
+SAM_A1301_1
+1	6euw
+BYB_A501
+3	1ua4
+GLC_A1457
+BGC_A2457
+AMP_A1456
+4	4ggz
+BTN_C900
+BTN_B900
+BTN_D900
+BTN_A900
+2	3e7a
+ACB_ARG_1ZN_FGA_MDH_C1
+ACB_ARG_1ZN_FGA_MDH_D1
+1	5o1i
+9GH_A402
+1	3ka2
+2NC_A204_1
+1	5ei3
+5O8_A301
+2	5kax
+RHQ_B201
+RHQ_A201_1
+# 3	1jq3	 <-- Too large! IGNORING
+1	5i8g
+69E_A1404
+# 8	3f9w	 <-- Too large! IGNORING
+2	1pbq
+DK1_A1001
+DK1_B1002
+2	6aad
+9TU_A505
+ATP_A504
+1	4yc9
+4C1_A1104
+2	5c03
+AGS_B901
+AGS_A901
+1	3o0w
+MAN_MAN_MAN_GLC_B1
+# 2	4b7s	 <-- Too large! IGNORING
+# 2	6czf	 <-- Too large! IGNORING
+# 2	4qtb	 <-- Too large! IGNORING
+2	2cbo
+TH2_A120
+TH2_A121
+# 2	3kdm	 <-- Too large! IGNORING
+1	4btb
+PRO_PRO_PRO_PRO_PRO_PRO_PRO_PRO_PRO_C0
+1	3kjm
+245_A601
+# 8	3axm	 <-- Too large! IGNORING
+1	3iog
+SDF_A311
+2	2w3o
+TYR_ALA_GLY_SEP_TPO_ASP_GLU_ASN_C515
+TYR_ALA_GLY_SEP_TPO_ASP_GLU_ASN_D515
+2	3wv1
+WHH_B307
+WHH_A307
+1	2p3i
+MNA_A1000
+# 2	2q8z	 <-- Too large! IGNORING
+2	6qfh
+J08_A301
+J08_B303
+1	3v49
+PK0_A950
+4	1g3m
+PCQ_A712
+PCQ_B711
+A3P_A701
+A3P_B702
+1	2yi0
+YI0_A1225
+1	4mxp
+DB4_A701
+1	5ar0
+GB8_A1384
+7	4yef
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_K1
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_N1
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_L1
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_J1
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_I1
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_M1
+GLC_GLC_GLC_GLC_GLC_GLC_GLC_H1
+2	4yca
+NDP_A800
+NDP_B800
+2	5l9o
+GOP_B301
+GOP_A301
+4	6bu3
+3GK_A301
+3GK_B301
+3GK_B302
+3GK_A302
+1	5a3t
+MMK_A1756
+1	6jb0
+GLC_GLC_B1
+# 16	1zhs	 <-- Too large! IGNORING
+1	6ht0
+GQ8_A210
+2	6f1w
+CG5_A308
+CG5_B309
+2	4xt8
+NAP_A301_2
+TMQ_A302
+1	5ne5
+KIF_A501
+4	4pio
+AVI_B402
+AVI_A402
+SAH_A401
+SAH_B401
+4	5n1x
+8HH_B201
+8HH_B202
+8HH_D201
+8HH_C201
+1	6o5u
+KAN_A301
+1	4ase	  # --> a warning was produced in pdb2pqr conversion.
+AV9_A3169
+# 4	1qk3	 <-- Too large! IGNORING
+1	4at3
+LTI_A1839
+1	5lp1
+71H_A503
+1	4x6k
+3XR_A802
+# 2	1e4x	 <-- Too large! IGNORING
+1	2oaz
+I96_A501
+1	1dy4
+SNP_A437
+2	1gar
+U89_A213
+U89_B213
+# 2	5g1c	 <-- Too large! IGNORING
+2	2pze
+ATP_A1_1
+ATP_B2
+3	3rf4
+FUN_A201
+FUN_B202
+FUN_C203
+1	1u9l
+ASN_ARG_PRO_ILE_LEU_SER_LEU_C34
+2	5vom
+9GY_A201
+9GY_B201
+3	4oas
+2SW_C201
+2SW_E201
+2SW_A201
+1	1eyn
+2AN_A550
+1	5eq0
+5R0_PHE_ALA_LEU_ELY_5R5_B0_1
+# 2	1m21	 <-- Too large! IGNORING
+1	5d9j
+0N8_A203
+# 3	6phx	 <-- Too large! IGNORING
+1	5a6n
+U7E_A300
+2	5x5m
+7YU_B302
+7YU_A302
+1	5fah
+5VT_A302
+2	3g3r
+ANP_A1000
+ANP_B1000
+# 4	1ro7	 <-- Too large! IGNORING
+1	3uw4
+MAA_CHG_PRO_0DQ_Z1_1
+# 4	2yoo	 <-- Too large! IGNORING
+# 2	6b9p	 <-- Too large! IGNORING
+1	4e1m
+TQ2_A301
+1	4mmp
+SLB_A401
+2	3bxf
+FBP_A401
+13P_B401
+2	4d3w
+A2G_GAL_B1
+NGA_GAL_B1
+1	4p6w
+MOF_A801
+2	1e2k
+TMC_A500
+TMC_B500
+1	6nrf
+KYV_A1103
+1	2xfe
+GAL_GAL_B1
+4	2gmk
+AMP_A940
+AMP_A941
+AMP_A942
+AMP_A943
+2	2jaj
+D20_A500
+D20_B500
+# 6	3ebl	 <-- Too large! IGNORING
+2	3f81
+STT_A1
+STT_B1
+1	4mdr
+#GLU_ASN_PRO_THR_TYR_LYS_PHE_PHE_GLU_GLN_B686	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	2cig
+1DG_A200
+# 11	4isk	 <-- Too large! IGNORING
+2	5fu3
+BGC_BGC_BGC_D1
+BGC_BGC_BGC_C1
+3	5glt
+BGC_GAL_NAG_GAL_C1
+BGC_GAL_NAG_GAL_D1
+BGC_GAL_NAG_GAL_E1
+2	3x00
+#ZOF_EDN_ZOF_B201	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#ZOF_ZOF_EDN_D201	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	3zq9
+NOY_BGC_A1519
+# 4	1u7t	 <-- Too large! IGNORING
+2	4mcc
+21X_B301
+21X_A301
+4	1opb
+RET_A134
+RET_B134
+RET_C134
+RET_D134
+1	4ksy
+1SY_A500
+1	4tmn
+0PK_E317
+1	6fiv
+3TL_A201
+1	5olz
+T4E_A1201
+1	5xn3	  # --> a warning was produced in pdb2pqr conversion.
+ARG_GLY_ASP_ILE_ASN_ASN_ASN_VAL_B1
+1	6c8x
+BVR_A101
+1	1tf9
+PHI_A913
+# 3	6adi	 <-- Too large! IGNORING
+# 2	4ojz	 <-- Too large! IGNORING
+4	3rg9
+WRA_A602
+WRA_B702
+NDP_A601
+NDP_B701
+2	4oiv
+XX9_B501
+XX9_A501
+2	6k05
+CQF_A201
+CQF_B201
+# 4	4z0g	 <-- Too large! IGNORING
+1	2vj8
+HA2_A1616
+# 6	5wre	 <-- Too large! IGNORING
+1	4q0k
+GA3_A201_1
+2	1ag9
+FMN_A177
+FMN_B177
+4	3r96
+ACO_A400
+ACO_B400
+AMP_A500_1
+AMP_B500
+1	4emv
+0R9_A301
+5	4dfu
+KAN_A401
+KAN_B402
+QUE_A402
+QUE_B401
+QUE_B403
+1	6oqb
+N0J_A401
+# 4	4k76	 <-- Unable to extract ligands. Check error log. IGNORING
+# 7	5mzi	 <-- Too large! IGNORING
+1	1fao
+4IP_A274
+1	3nim
+ARG_ARG_ALA_ALA_X1
+# 4	3tic	 <-- Too large! IGNORING
+4	1mhw
+#BP4_CYS_DAR_TYR_PEA_E41	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#BP4_CYS_DAR_TYR_PEA_F41	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+BP4_CYS_DAR_TYR_PEA_G41
+BP4_CYS_DAR_TYR_PEA_H41
+1	1mf4
+VAL_ALA_PHE_ARG_SER_B1
+4	3lc3
+IYX_A1
+IYX_A2
+IYX_C1
+IYX_C2
+1	5wuu
+7UU_A201
+# 3	5fus	 <-- Too large! IGNORING
+1	4w93
+3L9_A503
+# 2	3epw	 <-- Too large! IGNORING
+1	4rr7
+A3S_A201
+3	1md2
+233_D2201
+233_D2203
+#233_233_SQ_E1206	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	3ach
+BGC_BGC_BGC_BGC_B1
+# 1	2zxg	 <-- Too large! IGNORING
+# 1	6faa	 <-- Too large! IGNORING
+1	4pni
+KQQ_A601
+2	2vpe
+ALA_ARG_THR_MLY_GLN_THR_ALA_P1
+ALA_ARG_THR_MLY_GLN_THR_ALA_R1
+# 2	3k37	 <-- Too large! IGNORING
+1	5n49
+8LW_B701
+2	1w6p
+NDG_GAL_C1_1
+NDG_GAL_D1
+1	3c88
+ARG_ARG_GLY_CYS_NH2_B500
+1	1tq4
+GDP_A500
+1	4nw6
+2NS_A1001
+2	1l8b
+MGP_A1000
+MGP_B2000
+4	6bt6
+3GK_A301_1
+3GK_B301_1
+3GK_B302_1
+3GK_A302_1
+1	1obx
+#GLU_THR_LEU_GLU_ASP_SER_VAL_PHE_B5	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+2	5e50	  # --> a warning was produced in pdb2pqr conversion.
+ALA_TYR_ASP_GLU_SEP_TPO_ASP_GLU_GLU_D228
+ALA_TYR_ASP_GLU_SEP_TPO_ASP_GLU_GLU_C228
+# 8	2vz0	 <-- Too large! IGNORING
+4	3uxh
+UXH_A303
+UXH_B302
+FAD_A302
+FAD_B303
+1	4la7
+A1O_A201
+2	3p8n
+L4T_A188
+L4T_B188
+1	3hx3
+RET_A400
+2	4ny3
+#THR_PRO_ASP_TYR_PHE_LEU_D305	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+#THR_PRO_ASP_TYR_PHE_LEU_C305	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+1	1pfy
+MSP_A553
+2	5ulp
+KB1_B301
+KB1_A301
+# 4	5fjz	 <-- Too large! IGNORING
+1	1txr
+BES_A503
+1	3ch8
+PRO_GLN_PRO_VAL_ASP_SER_TRP_VAL_P6
+1	4k55
+H6P_A201
+1	1c5c
+TK4_L1001
+1	1kdk
+DHT_A301
+3	3d78
+NBB_A120
+NBB_B120
+NBB_B121
+# 6	1zos	 <-- Too large! IGNORING
+4	1f3f
+D4D_B163
+D4T_B161
+D4T_A160
+D4T_C164
+1	3zy6
+GFB_A1381
+1	1czr
+FMN_A170
+2	5kka
+6V0_A401
+6V0_B401
+1	4kju
+1RH_A502
+1	3ipq
+965_A801
+# 2	5exw	 <-- Too large! IGNORING
+1	5kle
+BGC_BGC_BGC_BGC_BGC_B1
+2	1ogx
+EQU_A1128
+EQU_B1328
+# 2	2ozl	 <-- Too large! IGNORING
+1	4o6w
+ACE_PRO_LEU_2SO_SER_TPO_NH2_C1
+2	2qtz
+NAP_A701
+FAD_A700
+2	5aav
+GW5_B1546
+GW5_A1552
+# 40	4avv	 <-- Too large! IGNORING
+2	3dz6
+PUT_B350
+M8E_A368
+# 3	5gub	 <-- Too large! IGNORING
+2	1q6d
+GLC_GLC_B1_1
+BGC_GLC_C1_1
+1	6frj
+#ALA_PRO_ASP_T9E_ARG_PRO_NH2_A2G_B1	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+4	1swg
+BTN_A600_1
+BTN_B700
+BTN_C800
+BTN_D900_1
+4	2cdp
+GAL_AAL_GAL_AAL_GAL_AAL_H1
+GAL_AAL_GAL_AAL_GAL_AAL_E1
+GAL_AAL_GAL_AAL_GAL_AAL_G1
+GAL_AAL_GAL_AAL_GAL_AAL_F1
+2	3fv1
+DYH_A1
+DYH_B2
+4	2xqq
+SAC_ARG_GLY_THR_GLN_THR_GLU_E1
+SAC_ARG_GLY_THR_GLN_THR_GLU_F1
+SAC_ARG_GLY_THR_GLN_THR_GLU_G1
+SAC_ARG_GLY_THR_GLN_THR_GLU_H1
+# 6	6ueg	 <-- Too large! IGNORING
+# 8	4cmi	 <-- Too large! IGNORING
+3	5fre
+GAL_SIA_E1
+GAL_SIA_F1
+GAL_SIA_D1
+1	1zhx
+HC3_A1001
+1	2y64
+XYP_XYP_XYP_XYP_XYP_B1_1
+1	5v86
+8ZA_A2001
+# 2	6im4	 <-- Too large! IGNORING
+1	3w9r
+A8S_A201
+1	3eys
+#PCA_PHE_ARG_HIS_ASP_SER_Q3	# <-- Partial match with respect to what expected. SAFE MODE=skipping
+# 8	4cm9	 <-- Too large! IGNORING

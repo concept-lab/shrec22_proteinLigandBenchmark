@@ -1,0 +1,419 @@
+2	4lae	# folder 486
+NAP_X201
+1VM_X202
+1	3a6t	# folder 776
+8OG_A134
+1	1v0l	# folder 780
+XIF_XYP_A1304
+4	5lpa	# folder 530
+ATP_A301
+ATP_B301
+71R_A302
+71R_B302
+2	6r1d	# folder 36
+JP5_B202
+JP5_A202
+1	2wr8	# folder 323
+SAH_A1257
+2	3djv	# folder 482
+C3P_A125
+C3P_B201
+1	6cyi	# folder 716
+N5O_A404
+1	4mmp	# folder 1014
+SLB_A401
+2	4qpl	# folder 249
+V3L_C201
+V3L_A201
+2	1csi	# folder 516
+CMX_A700
+OAA_A702
+2	1mhw	# folder 1049
+BP4_CYS_DAR_TYR_PEA_H41
+BP4_CYS_DAR_TYR_PEA_G41
+1	3tki	# folder 57
+S25_A325
+2	2v89	# folder 372
+ALA_ARG_THR_M3L_GLN_THR_ALA_ALA_LYS_ALA_E2001
+ALA_ARG_THR_M3L_GLN_THR_ALA_ALA_LYS_ALA_D3001
+1	3ach	# folder 1056
+BGC_BGC_BGC_BGC_B1
+1	4at3	# folder 994
+LTI_A1839
+1	3i8p	# folder 407
+840_A501
+1	2ho2	# folder 187
+PRO_PRO_PRO_PRO_PRO_PRO_PRO_PRO_PRO_LEU_B1
+1	1h6h	# folder 613
+PIB_A150
+1	4jwk	# folder 254
+CTN_A201
+2	2e2p	# folder 82
+ADP_A600
+ADP_B601
+1	3ies	# folder 330
+M24_A552
+1	5z99	# folder 477
+SLB_A501
+2	5x5m	# folder 1009
+7YU_B302
+7YU_A302
+1	4p6w	# folder 1017
+MOF_A801
+1	2puy	# folder 657
+ALA_ARG_THR_LYS_GLN_THR_ALA_ARG_LYS_SER_E1
+1	6jav	# folder 519
+BC0_A2101
+4	3ix9	# folder 415
+NDP_B193
+NDP_A193
+MTX_B200
+MTX_A200
+1	4d3w	# folder 1016
+A2G_GAL_B1
+2	3uxh	# folder 1067
+FAD_A302
+FAD_B303
+2	6chp	# folder 379
+F0Y_A201
+F0Y_B201
+2	1s17	# folder 123
+GNR_B601
+GNR_A501
+1	5duf	# folder 12
+G7A_A301
+1	3v66	# folder 90
+D3A_A402
+1	5xn3	# folder 1034
+ARG_GLY_ASP_ILE_ASN_ASN_ASN_VAL_B1
+1	5mg2	# folder 191
+7M8_A1704
+2	1lgt	# folder 499
+BP3_A300
+BP3_A301
+1	5o58	# folder 338
+A_G_B1
+1	4lcn	# folder 685
+GNG_A202
+1	2pq9	# folder 201
+GG9_A501
+1	3vyk	# folder 881
+MMA_MAN_NAG_MAN_NAG_NAG_B1
+1	1uw1	# folder 369
+ADP_A1074
+1	2p3i	# folder 973
+MNA_A1000
+1	3tge	# folder 820
+TGE_A999
+4	3lc3	# folder 1051
+IYX_C1
+IYX_A1
+IYX_A2
+IYX_C2
+2	5g3n	# folder 831
+X28_B1126
+X28_A1129
+2	3hiw	# folder 14
+C2X_A260
+C2X_B260
+1	4e1m	# folder 1013
+TQ2_A301
+2	5nwd	# folder 479
+9C8_B1201
+9C8_A1201
+2	4wup	# folder 342
+3UF_A302
+3UF_B302
+1	3lcv	# folder 458
+SAM_B301_1
+2	3nzk	# folder 935
+C90_A501
+C90_B501
+3	6g5j	# folder 702
+EM8_A202
+EM8_B202
+EM8_A203
+1	3ipq	# folder 1084
+965_A801
+1	6hgi	# folder 8
+C0R_A401
+2	3juq	# folder 813
+AKD_B600
+AKD_A600
+1	5ljb	# folder 443
+RTL_A201_1
+2	1jyq	# folder 878
+MAZ_PTR_PTM_ASN_H200
+MAZ_PTR_PTM_ASN_L200
+2	1o8b	# folder 573
+ABF_B1269
+ABF_A1269
+1	1gua	# folder 647
+GNP_A170
+1	5wa9	# folder 427
+9ZD_A201
+1	2gh9	# folder 180
+GLC_GLC_GLC_B1
+2	4pow	# folder 775
+OP1_B301
+OP1_A303
+1	1uj5	# folder 333
+5RP_A302
+2	4apo	# folder 289
+ALA_GLU_ASP_ASP_VAL_GLU_D1
+ALA_GLU_ASP_ASP_VAL_GLU_E1
+1	1czr	# folder 1081
+FMN_A170
+2	6qe5	# folder 236
+SAH_B301_1
+SAH_A301_1
+3	1w8h	# folder 111
+NDG_GAL_FUC_F1
+NAG_GAL_FUC_G1_1
+NDG_GAL_FUC_H1
+1	2fr3	# folder 691
+REA_A300
+1	4er2	# folder 709
+IVA_VAL_VAL_STA_ALA_STA_I1
+1	1vyf	# folder 559
+OLA_A1134
+1	4ikr	# folder 560
+PVP_A404
+1	1db1	# folder 563
+VDX_A428
+1	2e27	# folder 37
+AB0_H6001
+1	6nco	# folder 397
+KQP_A201
+2	5igi	# folder 655
+ZIT_A402
+GMP_A401
+3	2xd9	# folder 264
+XD9_C200
+XD9_A200
+XD9_B200
+1	3vhe	# folder 830
+42Q_A1170
+1	4mwv	# folder 625
+BCZ_A513
+1	1ida	# folder 913
+0PO_B100
+1	5vm6	# folder 23
+9EG_A203
+1	4hgw	# folder 76
+KTU_KDO_C1
+1	1y57	# folder 765
+MPZ_A600
+2	5kva	# folder 412
+SAM_A301
+SAM_B301
+1	6p9e	# folder 305
+O6D_A4000
+2	2vbq	# folder 345
+BSJ_B1146
+BSJ_A1000
+1	5tdc	# folder 612
+NMM_ILE_PHE_SER_D1
+2	5f1h	# folder 422
+5U6_A201
+5U6_B201
+4	5a7c	# folder 779
+5D4_B500
+5D4_D500
+5D4_A500
+5D4_C500
+1	4p5z	# folder 743
+Q7M_A1001
+1	1nox	# folder 777
+FMN_A300
+1	5fah	# folder 1010
+5VT_A302
+1	2bvd	# folder 857
+ISX_A1284
+1	6ej2	# folder 736
+B7E_A901
+1	3hv8	# folder 162
+C2E_A900
+2	3kjq	# folder 852
+B94_A480
+B94_A481
+1	5ygf	# folder 550
+ASP_GLN_GLY_ARG_GLY_ARG_ARG_ARG_PRO_D4
+3	3std	# folder 494
+MQ0_B505
+MQ0_C504
+MQ0_A503
+2	3q9n	# folder 715
+COA_B1072
+COA_A1072
+1	5zbz	# folder 165
+SAU_A301
+2	4qag	# folder 65
+F95_A603
+F95_B603
+1	5i7y	# folder 364
+69G_A201
+1	5edl	# folder 202
+VIB_A201
+1	4whz	# folder 394
+3NL_A501
+1	4oqr	# folder 386
+2UO_A502
+3	5vjn	# folder 473
+IR8_A201
+IR8_B201
+ADE_A205
+1	2yc5	# folder 766
+6BC_A1300
+1	5fd0	# folder 282
+NAG_A601
+2	6hmr	# folder 405
+GE5_B301
+GE5_A301
+1	1mmq	# folder 540
+RRS_A269
+2	1q6d	# folder 1091
+GLC_GLC_B1_1
+BGC_GLC_C1_1
+4	3ie3	# folder 38
+GSH_B210
+GSH_A210
+N11_A211
+N11_B211
+1	5wou	# folder 356
+LEU_PRO_SER_PHE_GLU_THR_ALA_LEU_V98
+2	3lzw	# folder 205
+FAD_A1000
+NAP_A2000
+1	1ax2	# folder 367
+NDG_GAL_C1
+2	3r35	# folder 892
+4CO_B170
+4CO_A170
+1	5hmr	# folder 336
+FDZ_A602
+2	4onc	# folder 695
+40B_A500
+40B_B500
+4	3t64	# folder 328
+DU3_A201
+DU3_B201
+DU3_C201
+ALA_HIS_ALA_F1
+4	4q1a	# folder 719
+UDP_B302
+UDP_A302
+2XZ_B301
+2XZ_A301
+1	4b7p	# folder 374
+9UN_A1226
+1	1b8o	# folder 835
+IMH_A600
+2	2fxu	# folder 285
+BID_A402
+ATP_A401
+1	1ywo	# folder 290
+GLN_PRO_PRO_VAL_PRO_PRO_GLN_ARG_PRO_MET_P1
+1	3hx3	# folder 1070
+RET_A400
+1	6t2w	# folder 826
+M9T_A1001
+1	4tw7	# folder 55
+37K_A201
+4	2oz5	# folder 602
+7XY_B277
+7XY_A277
+7XY_B278
+7XY_A278
+1	3llz	# folder 273
+NGA_GAL_C1
+2	6cs9	# folder 154
+PIO_A101
+PIO_B101
+1	4fl3	# folder 772
+ANP_A701
+1	1jt1	# folder 53
+MCO_A700
+2	4xuc	# folder 720
+SAM_A303
+43G_A301
+1	5m04	# folder 778
+GDP_A401
+1	3fci	# folder 400
+3FI_A1
+1	1q0y	# folder 505
+MOI_H401
+1	2cne	# folder 431
+DFJ_A1281
+2	6ay3	# folder 130
+C3J_A1201
+C3J_B1201
+1	5yqw	# folder 148
+NAG_NAG_B1
+1	3zm6	# folder 361
+2GN_A500
+1	2xom	# folder 5
+GAL_GAL_GAL_B1
+3	4igh	# folder 331
+FMN_A501_1
+1EA_A503
+ORO_A502
+1	3d9t	# folder 620
+ALA_THR_PRO_PHE_GLN_GLU_D1
+2	5umy	# folder 426
+TNN_A201
+TNN_A202
+1	5y86	# folder 851
+HRM_A601
+1	6rk4	# folder 72
+K5T_A501
+2	5n58	# folder 618
+93W_B502
+93W_A502
+1	5ml3	# folder 879
+DL3_B201
+1	3sm2	# folder 949
+478_A126
+1	4w4s	# folder 257
+B29_A401
+1	5h4j	# folder 616
+FKM_A201
+1	2ok0	# folder 511
+DT_DC_D1
+1	5t7i	# folder 649
+BGC_GAL_NAG_GAL_B1
+1	2gvv	# folder 358
+DI9_A502
+3	3qx9	# folder 873
+ATP_A1
+ATP_B1
+ATP_C1
+1	3vrv	# folder 646
+YSD_A501
+1	6iph	# folder 734
+DTP_A503
+1	3b50	# folder 520
+SLB_A311
+3	3fw3	# folder 457
+ETS_A302
+ETS_B303
+GLC_A304
+1	1kuk	# folder 871
+PCA_LYS_TRP_B251
+1	1bb6	# folder 360
+UMG_A130
+1	4pk3	# folder 68
+ACE_SER_ASP_ALY_THR_NH2_COA_B1
+2	4yoi	# folder 16
+4F4_A401
+4F4_B401
+2	3ttz	# folder 817
+07N_A1
+07N_B2
+1	4n7u	# folder 870
+2JA_A501
+2	1frb	# folder 609
+NDP_A350
+ZST_A351_1
+# Number of structures= 166
+# Number of ligands= 251
