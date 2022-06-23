@@ -9,11 +9,11 @@
 #           +DESCRIPTION+
 #
 #   0. Read from teminal the folder name
-#   1. Automatically detects format
-#   2. Map each folder to provided triangulation and expected ligands using the provided testMap.txt
-#   3. load ligand atoms
-#   4. load putative pockets
-#   5. establish success according to LC and PC metrics
+#   1. Automatically detects format (OFF or PQR). For OFF the folder testData with all structure triangulations must be present in the working directory.
+#   2. Map each participant pocket file to the correspondent ligand (for putative site evaluation) using the provided file "testMap.txt"
+#   3. Load ligand atoms from the folder containing ligand files in xyz format
+#   4. Load putative pockets of the participant
+#   5. Establish success according to LC and PC metrics
 
 
 
@@ -407,7 +407,7 @@ def main():
         for ln in ligands:
             ligandCoords.append(readLigand(ln,pqrName))
         nLigands = len(ligandCoords)
-        pList = readP(inFile,isPQR,'testOriginalFolder/'+str(number)) #last argument useful only if triangulation has to be read
+        pList = readP(inFile,isPQR,'testData/'+str(number)) #last argument useful only if triangulation has to be read
         nPockets += len(pList)
         r = 0 #RANKING POSITION
         norm += nLigands #UPDATE NORMALIZATION
