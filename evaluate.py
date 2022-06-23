@@ -161,25 +161,30 @@ def getStructureIterator(mapFile):
 
 
 
-def readLigand(lname,structureName):
+def readLigand(lname,structureName,filter=True):
     '''
-    Return ligand atoms read from lname within 5 angstrom from protein atoms
+    Return ligand atoms read from lname within 5 angstrom from protein atoms if filter on.
+    For that function one needs to provide the whole protein pqr..
     '''
-    resMap = get_protein('allStructures/'+structureName)
-    proteinCoord = np.empty((0,4))
-    for i in resMap:
-        c = np.append(np.asarray(i['coord']),i['radius'])
-        proteinCoord = np.vstack([proteinCoord,c])
-    inFile = open('structures/'+lname+".xyz",'r')
-    ligand_coord = np.loadtxt(inFile)
+    if filter:
+        resMap = get_protein('allStructures/'+structureName)
+        proteinCoord = np.empty((0,4))
+        for i in resMap:
+            c = np.append(np.asarray(i['coord']),i['radius'])
+            proteinCoord = np.vstack([proteinCoord,c])
+        inFile = open('ligands/'+lname+".xyz",'r')
+        ligand_coord = np.loadtxt(inFile)
 
-    d,flag = Pdist_C(ligand_coord[:,0:3],proteinCoord[:,0:3])
-    index = np.where(d<=5)[0]
-    lindex,_pindex=getIndex(flag,index,proteinCoord.shape[0])
-    # print(lindex)
-    # print(np.unique(lindex))
-    # print(ligand_coord[np.unique(lindex)])
-    ligand_coord = ligand_coord[np.unique(lindex)]
+        d,flag = Pdist_C(ligand_coord[:,0:3],proteinCoord[:,0:3])
+        index = np.where(d<=5)[0]
+        lindex,_pindex=getIndex(flag,index,proteinCoord.shape[0])
+        # print(lindex)
+        # print(np.unique(lindex))
+        # print(ligand_coord[np.unique(lindex)])
+        ligand_coord = ligand_coord[np.unique(lindex)]
+    else:
+        inFile = open('ligands/'+lname+".xyz",'r')
+        ligand_coord = np.loadtxt(inFile)
 
     return ligand_coord
 
@@ -474,8 +479,8 @@ def main():
 
     failFile = open("failureList.txt","w")
     failFile.write("#Total failures: %d/%d\n"%(len(noHitMap),structureCounter))
-    failFile.write("#List of missed ligands\n")
     failFile.write('#Thresholds: LC_Th=%.1f\t PC_Th=%.1f\n'%(np.round(lCoverageTH,3)*100,np.round(pCoverageTH,3)*100))
+    failFile.write("#List of missed ligands:\n")
     for string in noHitMap:
         failFile.write(repr(string).replace("[","\n").replace("]",""))
     
