@@ -165,6 +165,7 @@ def readLigand(lname,structureName,filter=True):
     '''
     Return ligand atoms read from lname within 5 angstrom from protein atoms if filter on.
     For that function one needs to provide the whole protein pqr..
+    In alternative, use the filtered ligand folder
     '''
     if filter:
         resMap = get_protein('allStructures/'+structureName)
@@ -183,7 +184,7 @@ def readLigand(lname,structureName,filter=True):
         # print(ligand_coord[np.unique(lindex)])
         ligand_coord = ligand_coord[np.unique(lindex)]
     else:
-        inFile = open('ligands/'+lname+".xyz",'r')
+        inFile = open('filtered_ligands/'+lname+".xyz",'r')
         ligand_coord = np.loadtxt(inFile)
 
     return ligand_coord
