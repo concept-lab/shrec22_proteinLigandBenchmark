@@ -1,0 +1,11 @@
+#!/bin/bash  
+#Setting python virtual environmen:
+#if needed uncomment
+#python3 -m venv pEnvironment-env
+#source pEnvironment-env/bin/activate
+
+echo "Creating shared C library"
+gcc -fPIC -c Cfunc.c -lm || gcc -fPIC -c Cfunc.c -lm -std=c99
+gcc -shared Cfunc.o -o libCfunc.so
+mv libCfunc.so ../
+rm Cfunc.o
