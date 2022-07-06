@@ -1,6 +1,25 @@
 # shrec22_proteinLigandBenchmark
 Dataset and evalutaion tools of the Shrec 2022  contest on protein-ligand binding site recognition
 
+
+## Requirements
+The script has been tested on Ubuntu 20.04.4 LTS and macOS Catalina 10.15.7.
+
+Python3 must be installed
+
+### Python modules
+- **numpy**
+- **re** 
+
+If not installed: *pip3 install numpy*; *pip3 install re*
+
+### C shared library installation
+(recommended for OS)
+
+Move in the *installLIB* folder and type ./install_script.
+This will compile the shared C library and move it in the main folder under the name: *libCfunc.so*
+
+
 ## Usage 
 For evaluating putative pockets in PQR or as a boolean map for the vertices of the structure OFF format (TXT file):
 
