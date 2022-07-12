@@ -7,11 +7,10 @@ The script has been tested on Ubuntu 20.04.4 LTS and macOS Catalina 10.15.7.
 
 Python3 must be installed
 
-### Python modules
+### Python non-builtin modules
 - **numpy**
-- **re** 
 
-If not installed: *pip3 install numpy*; *pip3 install re*
+If not installed: *pip3 install numpy*
 
 ### C shared library installation
 (recommended for OS)
