@@ -31,6 +31,8 @@ pCoverageTH = 0.2
 lCoverageTH = 0.5
 to change the metric's threshold for the evaluation of a putative binding site(\*).
 
+**Participant results are in the *participantResults* folder**
+
 ### Output of evaluation
 *rankStats.txt*: file containing the ranking result (Top1, Top3, Top10 and metrics--LC and PC score as described in\*)
 
@@ -44,7 +46,11 @@ These are actually the ligand coordinates used for evaluation (the same filterin
 ### NOTE
 A lighter version (without the full database and PQR structure files)of the contest's participants evaluation tool is provided in https://github.com/concept-lab/shrec22_PLBinding_evaluationTools.git
 
+### Full paper
+
+https://arxiv.org/pdf/2206.06035.pdf
+
 ### Cite
-(*) L. Gagliardi et al, SHREC 2022: Protein-ligand binding site recognition, *Computers & Graphics* [doi to be added] (2022) 
+(*) L. Gagliardi et al, SHREC 2022: Protein-ligand binding site recognition, *Computers & Graphics* https://doi.org/10.1016/j.cag.2022.07.005 (2022)
 
 
